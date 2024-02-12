@@ -565,6 +565,8 @@
             san_marino_group_b liechtenstein1 gibraltar1 kosovo1
           </choose_team_sid>
           <number_of_teams>1</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
           <preload>0</preload>
         </choose_team>
         <choose_team>
@@ -580,6 +582,8 @@
             san_marino_group_b liechtenstein1 gibraltar1 kosovo1
           </choose_team_sid>
           <number_of_teams>1</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
           <preload>0</preload>
         </choose_team>
       </choose_teams>
