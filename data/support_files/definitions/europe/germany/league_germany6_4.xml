@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>germany6_4</sid>
+  <name>Verbandsligen Niedersachsen</name>
+  <short_name>VL NS</short_name>
+  <symbol>flag_germany.png</symbol>
+  <average_talent>5200</average_talent>
+  <names_file>germany</names_file>
+  <layer>6</layer>
+  <property>inactive</property>
+
+  <teams>
+    <!-- Niedersachsen 13-20 -->
+    <team>
+      <team_name>Hannoverscher SC</team_name>
+    </team>
+    <team>
+      <team_name>FC Eintracht Northeim</team_name>
+    </team>
+    <team>
+      <team_name>TB Uphusen</team_name>
+    </team>
+    <team>
+      <team_name>MTV Wolfenbüttel</team_name>
+    </team>
+    <team>
+      <team_name>FT Braunschweig</team_name>
+    </team>
+    <team>
+      <team_name>MTV Gifhorn</team_name>
+    </team>
+    <team>
+      <team_name>FC Hagen/Uthlede</team_name>
+    </team>
+    <team>
+      <team_name>Spvgg Göttingen 07</team_name>
+    </team>
+  </teams>
+</league>

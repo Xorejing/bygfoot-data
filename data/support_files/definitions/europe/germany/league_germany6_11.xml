@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>germany6_11</sid>
+  <name>Verbandsligen Hessen</name>
+  <short_name>VL HE</short_name>
+  <symbol>flag_germany.png</symbol>
+  <average_talent>5200</average_talent>
+  <names_file>germany</names_file>
+  <layer>6</layer>
+  <property>inactive</property>
+
+  <teams>
+    <!-- Hessen 57-62 -->
+    <team>
+      <team_name>VFB Ginsheim</team_name>
+    </team>
+    <team>
+      <team_name>FV Bad Vilbel</team_name>
+    </team>
+    <team>
+      <team_name>SC Hessen Dreieich</team_name>
+    </team>
+    <team>
+      <team_name>SV Buchonia Flieden</team_name>
+    </team>
+    <team>
+      <team_name>SV Neuhof</team_name>
+    </team>
+    <team>
+      <team_name>SV Rot-Weiss Hadamar</team_name>
+    </team>
+  </teams>
+</league>

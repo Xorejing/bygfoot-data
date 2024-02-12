@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>germany6_9</sid>
+  <name>Verbandsligen Westfalen</name>
+  <short_name>VL NW</short_name>
+  <symbol>flag_germany.png</symbol>
+  <average_talent>5200</average_talent>
+  <names_file>germany</names_file>
+  <layer>6</layer>
+  <property>inactive</property>
+
+  <teams>
+    <!-- Westfalen 45-48 -->
+    <team>
+      <team_name>Holzwickeder SC</team_name>
+    </team>
+    <team>
+      <team_name>Hammer SpVg</team_name>
+    </team>
+    <team>
+      <team_name>TuS Erndtebrück</team_name>
+    </team>
+    <team>
+      <team_name>TuS Haltern</team_name>
+    </team>
+  </teams>
+</league>

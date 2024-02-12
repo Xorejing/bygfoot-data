@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Liechtenstein</name>
+  <symbol>flag_eu.png</symbol>
+  <sid>liechtenstein</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>liechtenstein1</league>
+  </leagues>
+
+  <cups>
+    <cup>liechtenstein_cup</cup>
+    <cup>uefa2024_ecl_rliechtenstein</cup>
+    <cup>uefa2024_el_rliechtenstein</cup>
+    <cup>uefa2024_cl_rliechtenstein</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc</cup>
+  </cups>
+</country>

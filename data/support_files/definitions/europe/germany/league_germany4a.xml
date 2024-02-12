@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>germany4a</sid>
+  <name>Regionalliga Nord</name>
+  <short_name>RL Nord</short_name>
+  <symbol>flag_germany.png</symbol>
+  <first_week>5</first_week>
+  <week_gap>1</week_gap>
+  <break_in length="1">6</break_in>
+  <break_in length="1">17</break_in>
+  <break_in length="1">30</break_in>
+  <break_in length="1">34</break_in>
+  <break_in length="1">41</break_in>
+  <average_talent>6300</average_talent>
+  <names_file>germany</names_file>
+  <yellow_red>5</yellow_red>
+  <layer>4</layer>
+
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>1</rank_start>
+      <rank_end>1</rank_end>
+      <dest_sid>germany3</dest_sid>
+      <prom_rel_type>promotion</prom_rel_type>
+    </prom_rel_element>
+    <prom_rel_element>
+      <rank_start>15</rank_start>
+      <rank_end>18</rank_end>
+      <dest_sid>germany5_1 germany5_2 germany5_3 germany5_4</dest_sid>
+      <prom_rel_type>relegation</prom_rel_type>
+    </prom_rel_element>
+    <prom_games>
+      <prom_games_dest_sid>germany4a</prom_games_dest_sid>
+      <prom_games_cup_sid>germany_prom_games4a</prom_games_cup_sid>
+      <prom_games_loser_sid>germany4a</prom_games_loser_sid>
+    </prom_games>
+  </prom_rel>
+
+  <!-- 18 - 4 II + 2HH + HB + SH = 18 -->
+  <teams>
+    <team>
+      <team_name>SC Weiche Flensburg</team_name>
+    </team>
+    <team>
+      <team_name>SC Spelle-Venhaus</team_name>
+    </team>
+    <team>
+      <team_name>SV Drochtersen/Assel</team_name>
+    </team>
+    <team>
+      <team_name>Teutonia 05 Ottensen</team_name>
+    </team>
+    <team>
+      <team_name>VfB Oldenburg</team_name>
+    </team>
+    <team>
+      <team_name>TSV Havelse</team_name>
+    </team>
+    <team>
+      <team_name>Blau-Weiß Lohne</team_name>
+    </team>
+    <team>
+      <team_name>Eintracht Norderstedt</team_name>
+    </team>
+    <team>
+      <team_name>SSV Jeddeloh II</team_name>
+    </team>
+    <team>
+      <team_name>SV Meppen</team_name>
+    </team>
+    <team>
+      <team_name>Bremer SV</team_name>
+    </team>
+    <team>
+      <team_name>Eimsbütteler TV</team_name>
+    </team>
+    <team>
+      <team_name>Phönix Lübeck</team_name>
+    </team>
+    <team>
+      <team_name>Heider SV</team_name><!-- <team_name>Holstein Kiel II</team_name> -->
+    </team>
+    <team>
+      <team_name>Kilia Kiel</team_name>
+    </team>
+    <team>
+      <team_name>TuS Dassendorf</team_name>  <!-- <team_name>St. Pauli II</team_name> -->
+    </team>
+    <team>
+      <team_name>Schwarz-Weiß Rehden</team_name><!-- <team_name>Hannover 96 II</team_name> -->
+    </team>
+    <team>
+      <team_name>Altona 93</team_name> <!-- <team_name>Hamburger SV II</team_name> -->
+    </team>
+  </teams>
+</league>

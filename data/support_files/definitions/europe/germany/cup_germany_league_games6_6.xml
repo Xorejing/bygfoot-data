@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cup>
+  <name>Verbandsligen Nordost League Games Süd</name>
+  <short_name>NE VL S Liga</short_name>
+  <symbol>flag_germany.png</symbol>
+  <sid>germany_league_games6_6</sid>
+  <add_week>37</add_week>
+  <week_gap>3</week_gap>
+  <last_week>44</last_week>
+  <property>national</property>
+  <property>highlight2</property>
+  <property>omit_from_history</property>
+  <yellow_red>3</yellow_red>
+
+  <cup_rounds>
+    <cup_round>
+      <home_away>0</home_away>
+      <delay>0</delay>
+      <round_name>Runde 1</round_name>
+      <new_teams>4</new_teams>
+      <choose_teams>
+        <choose_team>
+          <choose_team_sid>germany6_6</choose_team_sid>
+          <number_of_teams>4</number_of_teams>
+          <start_idx>3</start_idx>
+          <end_idx>6</end_idx>
+        </choose_team>
+      </choose_teams>
+    </cup_round>
+
+    <cup_round>
+      <home_away>0</home_away>
+      <delay>0</delay>
+      <round_name>Runde 2</round_name>
+      <new_teams>2</new_teams>
+      <choose_teams>
+        <choose_team>
+          <choose_team_sid>germany6_6</choose_team_sid>
+          <number_of_teams>2</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>2</end_idx>
+        </choose_team>
+      </choose_teams>
+    </cup_round>
+
+    <cup_round>
+      <delay>0</delay>
+      <home_away>0</home_away>
+      <round_name>Runde 3</round_name>
+    </cup_round>
+  </cup_rounds>
+</cup>

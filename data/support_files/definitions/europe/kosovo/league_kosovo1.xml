@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<league>
+  <name>Kosovo BKT</name>
+  <sid>kosovo1</sid>
+  <symbol>flag_kosovo.png</symbol>
+  <average_talent>5500</average_talent>
+  <names_file>serbia</names_file>
+  <first_week>5</first_week>
+  <round_robins>4</round_robins>
+  <break_in length="1">6</break_in>
+  <break_in length="1">16</break_in>
+  <break_in length="1">26</break_in>
+  <break_in length="1">36</break_in>
+  <yellow_red>5</yellow_red>
+
+  <teams>
+    <team>
+      <team_name>Drita Gjilan</team_name>
+    </team>
+    <team>
+      <team_name>Prishtina</team_name>
+    </team>
+    <team>
+      <team_name>Gjilani</team_name>
+    </team>
+    <team>
+      <team_name>Ballkani</team_name>
+    </team>
+    <team>
+      <team_name>Feronikeli</team_name>
+    </team>
+    <team>
+      <team_name>Llapi Podujeve</team_name>
+    </team>
+    <team>
+      <team_name>Dukagjini</team_name>
+    </team>
+    <team>
+      <team_name>Liria Prizren</team_name>
+    </team>
+    <team>
+      <team_name>UV Malisheva</team_name>
+    </team>
+    <team>
+      <team_name>Fushe Kosova</team_name>
+    </team>
+  </teams>
+</league>

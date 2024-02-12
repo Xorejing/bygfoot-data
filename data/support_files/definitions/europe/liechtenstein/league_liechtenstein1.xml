@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<league>
+  <name>Liechtenstein</name>
+  <sid>liechtenstein1</sid>
+  <symbol>flag_liechtenstein.png</symbol>
+  <average_talent>5500</average_talent>
+  <names_file>germany</names_file>
+  <property>inactive</property>
+
+  <teams>
+    <team>
+      <team_name>Balzers</team_name>
+    </team>
+    <team>
+      <team_name>Eschen/Mauren</team_name>
+    </team>
+    <team>
+      <team_name>Ruggell</team_name>
+    </team>
+    <team>
+      <team_name>Schaan</team_name>
+    </team>
+    <team>
+      <team_name>Triesen</team_name>
+    </team>
+    <team>
+      <team_name>Triesenberg</team_name>
+    </team>
+    <team>
+      <team_name>FC Vaduz</team_name>
+      <team_average_talent>5800</team_average_talent><!-- switzerland challenge league -->
+    </team>
+  </teams>
+</league>

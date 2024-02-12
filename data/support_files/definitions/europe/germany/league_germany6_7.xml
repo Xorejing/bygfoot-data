@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>germany6_7</sid>
+  <name>Verbandsligen Niederrhein</name>
+  <short_name>VL NR</short_name>
+  <symbol>flag_germany.png</symbol>
+  <average_talent>5200</average_talent>
+  <names_file>germany</names_file>
+  <layer>6</layer>
+  <property>inactive</property>
+
+  <teams>
+    <!-- Niederrhein 21-27 -->
+    <team>
+      <team_name>Cronenberger SC</team_name>
+    </team>
+    <team>
+      <team_name>FSV Duisburg</team_name>
+    </team>
+    <team>
+      <team_name>1. FC Mönchengladbach</team_name>
+    </team>
+    <team>
+      <team_name>1. FC Monheim</team_name>
+    </team>
+    <team>
+      <team_name>SC Velbert</team_name>
+    </team>
+    <team>
+      <team_name>FC Kray</team_name>
+    </team>
+    <team>
+      <team_name>TV Jahn Hiesfeld</team_name>
+    </team>
+    <team>
+      <team_name>SC Kapellen-Erft</team_name>
+    </team>
+  </teams>
+</league>

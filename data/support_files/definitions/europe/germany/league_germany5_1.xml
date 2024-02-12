@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>germany5_1</sid>
+  <name>Oberliga Schleswig-Holstein</name>
+  <short_name>OL SHFV</short_name>
+  <symbol>flag_germany.png</symbol>
+  <first_week>5</first_week>
+  <week_gap>1</week_gap>
+  <break_in length="1">6</break_in>
+  <break_in length="1">17</break_in>
+  <break_in length="1">30</break_in>
+  <average_talent>5500</average_talent>
+  <names_file>germany</names_file>
+  <yellow_red>5</yellow_red>
+  <layer>5</layer>
+
+  <!-- 18 - 2 II = 16 -->
+  <teams>
+    <team>
+      <team_name>TSB Flensburg</team_name>
+    </team>
+    <team>
+      <team_name>SV Eichede</team_name>
+    </team>
+    <team>
+      <team_name>SV Todesfelde</team_name>
+    </team>
+    <team>
+      <team_name>Inter Türkspor Kiel</team_name>
+    </team>
+    <team>
+      <team_name>TSV Bordesholm</team_name>
+    </team>
+    <team>
+      <team_name>PSV Union Neumünster</team_name>
+    </team>
+    <team>
+      <team_name>Oldenburger SV</team_name>
+    </team>
+    <team>
+      <team_name>SV Preußen Reinfeld</team_name>
+    </team>
+    <team>
+      <team_name>VfR Neumünster</team_name>
+    </team>
+    <team>
+      <team_name>FC Dornbreite Lübeck</team_name>
+    </team>
+    <team>
+      <team_name>MTSV Hohenwestedt</team_name>
+    </team>
+    <team>
+      <team_name>TSV Nordmark Satrup</team_name>
+    </team>
+    <team>
+      <team_name>Eckernförder SV</team_name>
+    </team>
+    <!--    <team>-->
+    <!--      <team_name>Heider SV</team_name>--><!-- Regionalliga Nord -->
+    <!--    </team>-->
+    <team>
+      <team_name>SV Frisia 03 Risum-Lindholm</team_name><!-- für SC Weiche Flensburg 08 II -->
+    </team>
+    <team>
+      <team_name>Eutin 08</team_name><!-- für VfB Lübeck II -->
+    </team>
+    <team>
+      <team_name>TSV Altenholz</team_name><!-- für Heider SV -->
+    </team>
+  </teams>
+</league>

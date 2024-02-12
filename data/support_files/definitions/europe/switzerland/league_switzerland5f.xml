@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>switzerland5f</sid>
+  <name>2. Liga Interregional Gruppe 6</name>
+  <short_name>2. L. G6</short_name>
+  <symbol>flag_switzerland.png</symbol>
+  <first_week>7</first_week>
+  <week_gap>1</week_gap>
+  <break_in length="1">8</break_in>
+  <break_in length="1">12</break_in>
+  <break_in length="1">15</break_in>
+  <break_in length="13">23</break_in>
+  <break_in length="1">46</break_in>
+  <average_talent>4600</average_talent>
+  <names_file>germany</names_file>
+  <yellow_red>5</yellow_red>
+  <layer>5</layer>
+
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>1</rank_start>
+      <rank_end>1</rank_end>
+      <dest_sid>switzerland4c</dest_sid>
+      <prom_rel_type>promotion</prom_rel_type>
+    </prom_rel_element>
+  </prom_rel>
+  <!--  6.	FC Widnau 1	14	6	4	4	(83)	33	:	29	22-->
+  <!--  7.	FC Uster 1	15	6	3	6	(55)	31	:	24	21-->
+  <!--  8.	FC Tägerwilen 1	14	6	2	6	(72)	28	:	30	20-->
+  <!--  9.	FC Dübendorf 1	14	6	0	8	(72)	26	:	31	18-->
+  <!--  10.	FC Lachen/Altendorf 1	15	5	3	7	(63)	25	:	31	18-->
+  <!--  11.	KF Dardania St. Gallen 1	15	5	3	7	(68)	21	:	32	18-->
+  <!--  12.	FC Thalwil 	15	5	2	8	(52)	29	:	33	17-->
+  <!--  13.	FC Adliswil 1	14	4	4	6	(60)	18	:	23	16-->
+  <!--  14.	FC Weesen 1	15	2	6	7	(62)	28	:	39	12-->
+  <!--  15.	FC Bazenheid 1	15	4	0	11	(70)	23	:	32	12-->
+  <!--  16.	FC Rapperswil-Jona 2	15	2	3	10	(44)	23	:	37	9-->
+
+  <teams>
+    <team>
+      <team_name>Adria Aarau</team_name>
+    </team>
+    <team>
+      <team_name>Amriswil</team_name>
+    </team>
+    <team>
+      <team_name>Bassersdorf</team_name>
+    </team>
+    <team>
+      <team_name>Bazenheid</team_name>
+    </team>
+    <team>
+      <team_name>Calcio Kreuzlingen</team_name>
+    </team>
+    <team>
+      <team_name>Kreuzlingen</team_name>
+    </team>
+    <team>
+      <team_name>Niederwil</team_name>
+    </team>
+    <team>
+      <team_name>Oftringen</team_name>
+    </team>
+    <team>
+      <team_name>Rüti</team_name>
+    </team>
+    <team>
+      <team_name>Seuzach</team_name>
+    </team>
+    <team>
+      <team_name>United Zürich</team_name>
+    </team>
+    <team>
+      <team_name>Uzwil</team_name>
+    </team>
+    <team>
+      <team_name>Weesen</team_name>
+    </team>
+    <team>
+      <team_name>Widnau</team_name>
+    </team>
+  </teams>
+</league>

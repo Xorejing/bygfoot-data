@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Deutschland</name>
+  <rating>10</rating>
+  <symbol>flag_germany.png</symbol>
+  <sid>germany</sid>
+
+  <leagues>
+    <league>germany1</league>
+    <league>germany2</league>
+    <league>germany3</league>
+    <league>germany4a</league>
+    <league>germany4b</league>
+    <league>germany4c</league>
+    <league>germany4d</league>
+    <league>germany4e</league>
+    <league>germany5_1</league><!-- 16 -->
+    <league>germany5_2</league><!-- 16 -->
+    <league>germany5_3</league><!-- 16 -->
+    <league>germany5_4</league><!-- 18 -->
+    <league>germany5_5</league><!-- 16 -->
+    <league>germany5_6</league><!-- 16 -->
+    <league>germany5_7</league><!-- 18 -->
+    <league>germany5_8</league><!-- 18 -->
+    <league>germany5_9</league><!-- 18 -->
+    <league>germany5_10</league><!-- 20 -->
+    <league>germany5_11</league><!-- 18 -->
+    <league>germany5_12</league><!-- 18 -->
+    <league>germany5_13</league><!-- 18 -->
+    <league>germany5_14</league><!-- 18 -->
+    <league>germany6_4</league><!-- reserve -->
+    <league>germany6_5</league><!-- reserve -->
+    <league>germany6_6</league><!-- reserve -->
+    <league>germany6_7</league><!-- reserve -->
+    <league>germany6_8</league><!-- reserve -->
+    <league>germany6_9</league><!-- reserve -->
+    <league>germany6_10</league><!-- reserve -->
+    <league>germany6_11</league><!-- reserve -->
+    <league>germany6_12</league><!-- reserve -->
+  </leagues>
+
+  <cups>
+    <cup>germany_dfb</cup>
+    <cup>germany_amateur_a</cup>
+    <cup>germany_amateur_b</cup>
+    <cup>germany_amateur_c</cup>
+    <cup>germany_amateur_d</cup>
+    <cup>germany_amateur_e</cup>
+    <cup>germany_dfb_amateur</cup>
+    <cup>germany_dfb</cup>
+
+    <cup>uefa2024_ecl_rgermany</cup>
+    <cup>uefa2024_el_rgermany</cup>
+    <cup>uefa2024_cl_rgermany</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc</cup>
+
+    <cup>germany_supercup</cup>
+    <cup>germany_prom_games1</cup>
+    <cup>germany_prom_games2</cup>
+    <cup>germany_prom_games3</cup>
+    <cup>germany_prom_games4a</cup>
+    <cup>germany_prom_games4b</cup>
+    <cup>germany_prom_games4e</cup>
+    <cup>germany_prom_games5b</cup>
+    <cup>germany_prom_games5_1</cup>
+    <cup>germany_prom_games5_3</cup>
+    <cup>germany_releg_games5_1</cup>
+    <cup>germany_releg_games5_3</cup>
+    <cup>germany_releg_games5_5</cup>
+    <cup>germany_releg_games5_6</cup>
+    <cup>germany_league_games6_4</cup>
+    <cup>germany_league_games6_5</cup>
+    <cup>germany_league_games6_6</cup>
+    <cup>germany_league_games6_7</cup>
+    <cup>germany_league_games6_8</cup>
+    <cup>germany_league_games6_9</cup>
+    <cup>germany_league_games6_10</cup>
+    <cup>germany_league_games6_11</cup>
+    <cup>germany_league_games6_12</cup>
+    <cup>germany_prom_games6_4</cup>
+    <cup>germany_prom_games6_5</cup>
+    <cup>germany_prom_games6_6</cup>
+    <cup>germany_prom_games6_7</cup>
+    <cup>germany_prom_games6_8</cup>
+    <cup>germany_prom_games6_9</cup>
+    <cup>germany_prom_games6_10</cup>
+    <cup>germany_prom_games6_11</cup>
+    <cup>germany_prom_games6_12</cup>
+  </cups>
+
+</country>

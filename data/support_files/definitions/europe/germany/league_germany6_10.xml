@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>germany6_10</sid>
+  <name>Verbandsligen Rheinland-Pfalz / Saar</name>
+  <short_name>VL RP/S</short_name>
+  <symbol>flag_germany.png</symbol>
+  <average_talent>5200</average_talent>
+  <names_file>germany</names_file>
+  <layer>6</layer>
+  <property>inactive</property>
+
+  <teams>
+    <!-- RPL/Saar 49-56 -->
+    <team>
+      <team_name>Hassia Bingen</team_name>
+    </team>
+    <team>
+      <team_name>Eisbachtaler Sportfreunde</team_name>
+    </team>
+    <team>
+      <team_name>SG 2000 Mülheim-Kärlich</team_name>
+    </team>
+    <team>
+      <team_name>TSV Emmelshausen</team_name>
+    </team>
+    <team>
+      <team_name>FC Hertha Wiesbach</team_name>
+    </team>
+    <team>
+      <team_name>FV Eppelborn</team_name>
+    </team>
+    <team>
+      <team_name>FSV Jägersburg</team_name>
+    </team>
+    <team>
+      <team_name>FC Speyer 09</team_name>
+    </team>
+  </teams>
+</league>

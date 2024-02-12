@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cup>
+  <name>Amateurpokal Südwest</name>
+  <short_name>Amateur SW</short_name>
+  <symbol>flag_germany.png</symbol>
+  <sid>germany_amateur_d</sid>
+  <!--   <add_week>46</add_week> -->
+  <last_week>1</last_week>
+  <property>national</property>
+  <property>weak_at_home</property>
+  <!--  <property>highlight2</property>-->
+  <property>omit_from_history</property>
+  <yellow_red>3</yellow_red>
+
+  <cup_rounds>
+    <cup_round>
+      <!-- 21+20+19+12 : 36 advances -->
+      <home_away>0</home_away>
+      <round_name>Amateurpokal Südwest</round_name>
+      <delay>0</delay>
+      <byes>0</byes>
+      <choose_teams>
+        <choose_team>
+          <choose_team_sid>germany4d</choose_team_sid>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>germany5_10</choose_team_sid>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>germany5_11</choose_team_sid>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>germany5_12</choose_team_sid>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>germany6_10</choose_team_sid>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>germany6_11</choose_team_sid>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>germany6_12</choose_team_sid>
+        </choose_team>
+      </choose_teams>
+    </cup_round>
+  </cup_rounds>
+</cup>

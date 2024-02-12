@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cup>
+  <name>Nordost Amateurpokal</name>
+  <short_name>NE Amateur</short_name>
+  <symbol>flag_germany.png</symbol>
+  <sid>germany_amateur_b</sid>
+  <last_week>1</last_week>
+  <property>national</property>
+  <property>weak_at_home</property>
+  <!--  <property>highlight2</property>-->
+  <property>omit_from_history</property>
+  <yellow_red>3</yellow_red>
+
+  <cup_rounds>
+    <cup_round>
+      <!-- 16+16+14 +2 : 25 advances -->
+      <home_away>0</home_away>
+      <round_name>Amateurpokal Nordost</round_name>
+      <delay>0</delay>
+      <byes>0</byes>
+      <choose_teams>
+        <choose_team>
+          <choose_team_sid>germany4b</choose_team_sid>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>germany5_5</choose_team_sid>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>germany5_6</choose_team_sid>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>germany6_5</choose_team_sid>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>germany6_6</choose_team_sid>
+        </choose_team>
+      </choose_teams>
+    </cup_round>
+  </cup_rounds>
+</cup>

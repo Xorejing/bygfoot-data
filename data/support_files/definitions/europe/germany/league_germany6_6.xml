@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>germany6_6</sid>
+  <name>Verbandsligen Nordost Süd</name>
+  <short_name>VL NO S</short_name>
+  <symbol>flag_germany.png</symbol>
+  <average_talent>5200</average_talent>
+  <names_file>germany</names_file>
+  <layer>6</layer>
+  <property>inactive</property>
+
+  <teams>
+    <!-- NO Sued 27-32 -->
+    <team>
+      <team_name>FC An der Fahner Höhe</team_name>
+    </team>
+    <team>
+      <team_name>1. FC Merseburg</team_name>
+    </team>
+    <team>
+      <team_name>SV Blau-Weiß Zorbau</team_name>
+    </team>
+    <team>
+      <team_name>Wacker Nordhausen</team_name>
+    </team>
+    <team>
+      <team_name>Inter Leipzig</team_name>
+    </team>
+    <team>
+      <team_name>FC Oberlausitz Neugersdorf</team_name>
+    </team>
+  </teams>
+</league>

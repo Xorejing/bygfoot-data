@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Kosovo</name>
+  <symbol>flag_kosovo.png</symbol>
+  <sid>kosovo</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>kosovo1</league>
+    <league>kosovo2</league>
+  </leagues>
+
+  <cups>
+    <cup>kosovar_cup</cup>
+
+    <cup>uefa2024_ecl_rkosovo</cup>
+    <cup>uefa2024_el_rkosovo</cup>
+    <cup>uefa2024_cl_rkosovo</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc</cup>
+  </cups>
+</country>

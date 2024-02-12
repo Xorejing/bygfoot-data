@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>germany6_5</sid>
+  <name>Verbandsligen Nordost Nord</name>
+  <short_name>VL NO N</short_name>
+  <symbol>flag_germany.png</symbol>
+  <average_talent>5200</average_talent>
+  <names_file>germany</names_file>
+  <layer>6</layer>
+  <property>inactive</property>
+
+  <teams>
+    <!-- NO Nord 21-26 -->
+    <team>
+      <team_name>Blau-Weiß 90 Berlin</team_name>
+    </team>
+    <team>
+      <team_name>Torgelower FC Greif</team_name>
+    </team>
+    <team>
+      <team_name>FC Strausberg</team_name>
+    </team>
+    <team>
+      <team_name>SV Victoria Seelow</team_name>
+    </team>
+    <team>
+      <team_name>1. FC Lok Stendal</team_name>
+    </team>
+    <team>
+      <team_name>Brandenburger SC Süd 05</team_name>
+    </team>
+  </teams>
+</league>

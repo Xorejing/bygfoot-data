@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>switzerland4c</sid>
+  <name>1. Liga Gruppe 3</name>
+  <short_name>1. L. G3</short_name>
+  <symbol>flag_switzerland.png</symbol>
+  <first_week>3</first_week>
+  <week_gap>1</week_gap>
+  <break_in length="1">12</break_in>
+  <break_in length="10">25</break_in>
+  <average_talent>5200</average_talent>
+  <names_file>germany</names_file>
+  <yellow_red>5</yellow_red>
+  <layer>3</layer>
+
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>15</rank_start>
+      <rank_end>16</rank_end>
+      <dest_sid>switzerland5e switzerland5f</dest_sid>
+      <prom_rel_type>relegation</prom_rel_type>
+    </prom_rel_element>
+  </prom_rel>
+
+  <teams>
+    <team>
+      <team_name>Young Fellows Juventus</team_name>
+    </team>
+    <team>
+      <team_name>FC Kreuzlingen</team_name>
+    </team>
+    <team>
+      <team_name>USV Eschen/Mauren</team_name>
+    </team>
+    <team>
+      <team_name>FC Winterthur II</team_name>
+      <team_average_talent>4000</team_average_talent>
+    </team>
+    <team>
+      <team_name>Grasshoppers II</team_name>
+      <team_average_talent>4000</team_average_talent>
+    </team>
+    <team>
+      <team_name>Wettswil-Bonstetten</team_name>
+    </team>
+    <team>
+      <team_name>FC Mendrisio</team_name>
+    </team>
+    <team>
+      <team_name>SV Höngg</team_name>
+    </team>
+    <team>
+      <team_name>FC Kosova</team_name>
+    </team>
+    <team>
+      <team_name>FC Tuggen</team_name>
+    </team>
+    <team>
+      <team_name>FC Freienbach</team_name>
+    </team>
+    <team>
+      <team_name>AC Taverne</team_name>
+    </team>
+    <team>
+      <team_name>FC Linth 04</team_name>
+    </team>
+    <team>
+      <team_name>FC Uzwil</team_name>
+    </team>
+    <team>
+      <team_name>FC Balzers</team_name>
+    </team>
+    <team>
+      <team_name>FC Gossau</team_name>
+    </team>
+  </teams>
+</league>

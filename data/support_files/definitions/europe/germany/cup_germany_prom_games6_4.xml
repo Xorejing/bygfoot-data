@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cup>
+  <name>Oberliga Niedersachsen Promotion Games</name>
+  <short_name>NI OL Prom.</short_name>
+  <symbol>flag_germany.png</symbol>
+  <sid>germany_prom_games6_4</sid>
+  <add_week>1000</add_week>
+  <last_week>45</last_week>
+  <property>national</property>
+  <property>highlight2</property>
+  <yellow_red>3</yellow_red>
+
+  <cup_rounds>
+    <cup_round>
+      <home_away>0</home_away>
+      <neutral>1</neutral>
+      <round_name>Aufstiegsrunde Finale</round_name>
+      <choose_teams>
+        <choose_team>
+          <choose_team_sid>germany_league_games6_4</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>1</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>germany5_4</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <start_idx>18</start_idx>
+          <end_idx>18</end_idx>
+        </choose_team>
+      </choose_teams>
+    </cup_round>
+  </cup_rounds>
+</cup>

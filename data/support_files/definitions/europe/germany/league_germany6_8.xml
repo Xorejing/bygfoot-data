@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>germany6_8</sid>
+  <name>Verbandsligen Mittelrhein</name>
+  <short_name>VL MR</short_name>
+  <symbol>flag_germany.png</symbol>
+  <average_talent>5200</average_talent>
+  <names_file>germany</names_file>
+  <layer>6</layer>
+  <property>inactive</property>
+
+  <teams>
+    <!-- Mittelrhein 40-44 -->
+    <team>
+      <team_name>VfL Alfter</team_name>
+    </team>
+    <team>
+      <team_name>SV Eilendorf</team_name>
+    </team>
+    <team>
+      <team_name>SC Düsseldorf-West</team_name>
+    </team>
+    <team>
+      <team_name>TuRU Düsseldorf</team_name>
+    </team>
+    <team>
+      <team_name>Blau-Weiß Friesdorf</team_name>
+    </team>
+    <team>
+      <team_name>SC Rheinbach</team_name>
+    </team>
+  </teams>
+</league>

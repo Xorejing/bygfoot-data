@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>germany6</sid>
+  <name>Verbandsligen</name>
+  <short_name>VL</short_name>
+  <symbol>flag_germany.png</symbol>
+  <average_talent>5200</average_talent>
+  <names_file>germany</names_file>
+  <layer>6</layer>
+  <property>inactive</property>
+
+  <teams>
+    <!-- SH 1-8 -->
+    <team>
+      <team_name>TSV Pansdorf</team_name>
+    </team>
+    <team>
+      <team_name>Husumer SV</team_name>
+    </team>
+    <team>
+      <team_name>TSV Kronshagen</team_name>
+    </team>
+    <!-- Hamburg -->
+    <team>
+      <team_name>Bramfelder SV</team_name>
+    </team>
+    <team>
+      <team_name>Meiendorfer SV</team_name>
+    </team>
+    <team>
+      <team_name>HSV Barmbek-Uhlenhorst</team_name>
+    </team>
+    <team>
+      <team_name>TuS Osdorf</team_name>
+    </team>
+    <team>
+      <team_name>SV Curslack-Neuengamme</team_name>
+    </team>
+    <!-- Bremen 9-12 -->
+    <team>
+      <team_name>BSC Hastedt</team_name>
+    </team>
+    <team>
+      <team_name>SC Borgfeld</team_name>
+    </team>
+    <team>
+      <team_name>Habenhauser FV</team_name>
+    </team>
+    <team>
+      <team_name>SV Hemelingen</team_name>
+    </team>
+    <!-- BY Nord 68-70 -->
+    <team>
+      <team_name>TSV 1880 Wasserburg</team_name>
+    </team>
+    <team>
+      <team_name>SV Seligenporten</team_name>
+    </team>
+    <team>
+      <team_name>DJK Don Bosco Bamberg</team_name>
+    </team>
+    <!-- BY Sued 71-71 -->
+    <team>
+      <team_name>TSV Schwabmünchen</team_name>
+    </team>
+  </teams>
+</league>

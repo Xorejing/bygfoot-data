@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>germany4b</sid>
+  <name>Regionalliga Nordost</name>
+  <short_name>RL Nordost</short_name>
+  <symbol>flag_germany.png</symbol>
+  <first_week>5</first_week>
+  <week_gap>1</week_gap>
+  <break_in length="1">6</break_in>
+  <break_in length="1">17</break_in>
+  <break_in length="1">30</break_in>
+  <break_in length="1">34</break_in>
+  <break_in length="1">41</break_in>
+  <average_talent>6300</average_talent>
+  <names_file>germany</names_file>
+  <yellow_red>5</yellow_red>
+  <layer>4</layer>
+
+  <prom_rel>
+    <prom_games>
+      <prom_games_dest_sid>germany4b</prom_games_dest_sid>
+      <prom_games_cup_sid>germany_prom_games4b</prom_games_cup_sid>
+      <prom_games_loser_sid>germany5_5 germany5_6</prom_games_loser_sid>
+    </prom_games>
+    <prom_rel_element>
+      <rank_start>16</rank_start>
+      <rank_end>18</rank_end>
+      <dest_sid>germany5_5 germany5_6</dest_sid>
+      <prom_rel_type>relegation</prom_rel_type>
+    </prom_rel_element>
+  </prom_rel>
+
+  <!-- 18 teams - 2 II = 18 -->
+  <teams>
+    <team>
+      <team_name>Chemnitzer FC</team_name>
+    </team>
+    <team>
+      <team_name>Carl Zeiss Jena</team_name>
+    </team>
+    <team>
+      <team_name>1. FC Lok Leipzig</team_name>
+    </team>
+    <team>
+      <team_name>VSG Altglienicke</team_name>
+    </team>
+    <team>
+      <team_name>BFC Dynamo</team_name>
+    </team>
+    <team>
+      <team_name>Greifswalder FC</team_name>
+    </team>
+    <team>
+      <team_name>Viktoria 1889 Berlin</team_name>
+    </team>
+    <team>
+      <team_name>Rot-Weiß Erfurt</team_name>
+    </team>
+    <team>
+      <team_name>Berliner AK 07</team_name>
+    </team>
+    <team>
+      <team_name>Energie Cottbus</team_name>
+    </team>
+    <team>
+      <team_name>ZFC Meuselwitz</team_name>
+    </team>
+    <team>
+      <team_name>BSG Chemie Leipzig</team_name>
+    </team>
+    <team>
+      <team_name>FC Eilenburg</team_name>
+    </team>
+    <team>
+      <team_name>FSV Luckenwalde</team_name>
+    </team>
+    <team>
+      <team_name>SV Babelsberg 03</team_name>
+    </team>
+    <team>
+      <team_name>FSV Zwickau</team_name>
+    </team>
+    <!-- 		<team> -->
+    <!-- 			<team_name>Hertha BSC II</team_name> -->
+    <!-- 			<team_average_talent>5900</team_average_talent> -->
+    <!-- 		</team> -->
+    <!-- 		<team> -->
+    <!-- 			<team_name>Hansa Rostock II</team_name> -->
+    <!-- 			<team_average_talent>5900</team_average_talent> -->
+    <!-- 		</team> -->
+    <team>
+      <team_name>Hertha 03 Zehlendorf</team_name><!-- 			<team_name>Hertha BSC II</team_name> -->
+    </team>
+    <team>
+      <team_name>SV Lichtenberg 47</team_name><!-- 			<team_name>Hansa Rostock II</team_name> -->
+    </team>
+  </teams>
+</league>
