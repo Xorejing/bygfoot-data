@@ -692,9 +692,7 @@
           <number_of_teams>16</number_of_teams>
           <start_idx>17</start_idx>
           <end_idx>32</end_idx>
-          <randomly>1</randomly>
           <skip_group_check>1</skip_group_check>
-          <generate>1</generate>
           <preload>0</preload>
           <wait_for_cup round="1">uefa2024_cl_r*</wait_for_cup>
         </choose_team>
@@ -703,9 +701,7 @@
           <number_of_teams>9</number_of_teams>
           <start_idx>10</start_idx>
           <end_idx>18</end_idx>
-          <randomly>1</randomly>
           <skip_group_check>1</skip_group_check>
-          <generate>1</generate>
           <preload>0</preload>
           <wait_for_cup round="1">uefa2024_el_r*</wait_for_cup>
         </choose_team>
@@ -723,9 +719,7 @@
           <number_of_teams>8</number_of_teams>
           <start_idx>9</start_idx>
           <end_idx>16</end_idx>
-          <randomly>1</randomly>
           <skip_group_check>1</skip_group_check>
-          <generate>1</generate>
           <preload>0</preload>
           <wait_for_cup round="2">uefa2024_el_r*</wait_for_cup>
         </choose_team>
@@ -773,9 +767,7 @@
           <number_of_teams>13</number_of_teams>
           <start_idx>14</start_idx>
           <end_idx>26</end_idx>
-          <randomly>1</randomly>
           <skip_group_check>1</skip_group_check>
-          <generate>1</generate>
           <preload>0</preload>
           <wait_for_cup round="3">uefa2024_el_r*</wait_for_cup>
         </choose_team>
@@ -793,9 +785,7 @@
           <number_of_teams>12</number_of_teams>
           <start_idx>15</start_idx>
           <end_idx>26</end_idx>
-          <randomly>1</randomly>
           <skip_group_check>1</skip_group_check>
-          <generate>1</generate>
           <preload>0</preload>
           <wait_for_cup round="4">uefa2024_el_r*</wait_for_cup>
         </choose_team>

@@ -310,7 +310,6 @@
           <end_idx>2</end_idx>
           <randomly>1</randomly>
           <generate>1</generate>
-          <preload>0</preload>
         </choose_team>
       </choose_teams>
     </cup_round>
