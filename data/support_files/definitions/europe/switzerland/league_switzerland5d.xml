@@ -4,14 +4,16 @@
   <name>2. Liga Interregional Gruppe 4</name>
   <short_name>2. L. G4</short_name>
   <symbol>flag_switzerland.png</symbol>
-  <first_week>7</first_week>
+  <first_week>4</first_week>
   <week_gap>1</week_gap>
+  <break_in length="1">5</break_in>
   <break_in length="1">8</break_in>
   <break_in length="1">12</break_in>
-  <break_in length="1">15</break_in>
-  <break_in length="6">26</break_in>
+  <break_in length="1">16</break_in>
+  <break_in length="4">26</break_in>
   <break_in length="1">46</break_in>
   <average_talent>4600</average_talent>
+  <round_robins>3</round_robins>
   <names_file>germany</names_file>
   <yellow_red>5</yellow_red>
   <layer>5</layer>
@@ -24,18 +26,12 @@
       <prom_rel_type>promotion</prom_rel_type>
     </prom_rel_element>
   </prom_rel>
-  <!--  3.	Zug 94 	16	6	8	2	(51)	30	:	19	24-->
   <!--  4.	SC Cham II	16	7	3	6	(38)	22	:	30	22-->
   <!--  5.	FC Brunnen 	16	6	6	4	(57)	21	:	16	22-->
   <!--  6.	SC Buochs 	16	5	8	3	(32)	21	:	16	21-->
 
-  <!--  7.	FC Sursee 	16	6	4	6	(77)	23	:	29	20-->
   <!--  8.	SC Emmen 	16	5	5	6	(48)	23	:	21	18-->
-  <!--  9.	SC Goldau 	16	4	7	5	(39)	22	:	30	17-->
   <!--  10.	FC Red Star ZH 	16	5	4	7	(69)	18	:	17	17-->
-  <!--  11.	FC Gambarogno-Contone 	15	4	6	5	(44)	12	:	10	16-->
-  <!--  12.	FC Kickers Luzern	16	4	5	7	(37)	19	:	28	15-->
-  <!--  13.	FC Perlen-Buchrain	15	3	7	5	(70)	21	:	22	14-->
   <teams>
     <team>
       <team_name>Aegeri</team_name>
@@ -44,10 +40,10 @@
       <team_name>Brunnen</team_name>
     </team>
     <team>
-      <team_name>Emmenbrücke</team_name>
+      <team_name>FC Gambarogno-Contone</team_name>
     </team>
     <team>
-      <team_name>Gambarogno-Contone</team_name>
+      <team_name>SC Goldau</team_name>
     </team>
     <team>
       <team_name>Hergiswil</team_name>
@@ -59,7 +55,7 @@
       <team_name>Kickers Luzern</team_name>
     </team>
     <team>
-      <team_name>Mendrisio</team_name>
+      <team_name>Zug 94</team_name>
     </team>
     <team>
       <team_name>Novazzano</team_name>
@@ -74,10 +70,10 @@
       <team_name>Sarmenstorf</team_name>
     </team>
     <team>
-      <team_name>Sursee</team_name>
+      <team_name>FC Sursee</team_name>
     </team>
     <team>
-      <team_name>Taverne</team_name>
+      <team_name>Triesenberg</team_name>
     </team>
   </teams>
 </league>

@@ -9,6 +9,7 @@
   <break_in length="1">5</break_in>
   <break_in length="1">8</break_in>
   <break_in length="1">12</break_in>
+  <break_in length="1">16</break_in>
   <break_in length="6">26</break_in>
   <break_in length="1">46</break_in>
   <average_talent>5200</average_talent>
@@ -36,7 +37,7 @@
       <team_name>FC Courtételle</team_name>
     </team>
     <team>
-      <team_name>4 FC Solothurn</team_name>
+      <team_name>FC Solothurn</team_name>
     </team>
     <team>
       <team_name>Black Stars Basel</team_name>
@@ -49,7 +50,7 @@
     </team>
     <team>
       <team_name>FC Thun II</team_name>
-      <team_average_talent>4000</team_average_talent>
+      <team_average_talent>4600</team_average_talent>
     </team>
     <team>
       <team_name>FC Wohlen</team_name>

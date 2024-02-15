@@ -8,8 +8,9 @@
   <week_gap>1</week_gap>
   <break_in length="1">8</break_in>
   <break_in length="1">12</break_in>
-  <break_in length="1">15</break_in>
+  <break_in length="1">16</break_in>
   <break_in length="4">26</break_in>
+  <break_in length="1">34</break_in>
   <break_in length="1">46</break_in>
   <average_talent>7000</average_talent>
   <round_robins>3</round_robins>

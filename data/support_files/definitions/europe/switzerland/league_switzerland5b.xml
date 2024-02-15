@@ -4,14 +4,16 @@
   <name>2. Liga Interregional Gruppe 2</name>
   <short_name>2. L. G2</short_name>
   <symbol>flag_switzerland.png</symbol>
-  <first_week>7</first_week>
+  <first_week>4</first_week>
   <week_gap>1</week_gap>
+  <break_in length="1">5</break_in>
   <break_in length="1">8</break_in>
   <break_in length="1">12</break_in>
-  <break_in length="1">15</break_in>
-  <break_in length="6">26</break_in>
+  <break_in length="1">16</break_in>
+  <break_in length="4">26</break_in>
   <break_in length="1">46</break_in>
   <average_talent>4600</average_talent>
+  <round_robins>3</round_robins>
   <names_file>france</names_file>
   <yellow_red>5</yellow_red>
   <layer>5</layer>
@@ -26,15 +28,10 @@
   </prom_rel>
   <!--  13.	Olympique de Genève FC 1	16	4	4	8	(60)	24	:	34	16-->
   <!--  14.	FC Perly-Certoux 1	15	4	3	8	(66)	20	:	24	15-->
-  <!--  15.	FC La Tour/Le Pâquier 	15	4	2	9	(24)	26	:	32	14-->
-  <!--  16.	FC Farvagny/Ogoz I	15	4	2	9	(40)	17	:	28	14-->
-  <!--  17.	Urania Genève Sport 	15	4	2	9	(58)	18	:	27	14-->
 
   <!--  1.	FC Prishtina Bern 	15	10	3	2	(51)	35	:	13	33-->
   <!--  2.	FC Besa Biel/Bienne 	15	10	3	2	(63)	42	:	21	33-->
   <!--  3.	SC Dornach 	15	10	2	3	(53)	40	:	20	32-->
-  <!--  4.	FC Muri-Gümligen 	15	9	4	2	(61)	25	:	13	31-->
-  <!--  5.	BSC Old Boys 	15	7	4	4	(50)	39	:	33	25-->
   <!--  6.	FC Ueberstorf I	15	6	3	6	(47)	21	:	21	21-->
   <!--  7.	FC Bosporus 	15	5	5	5	(44)	30	:	30	20-->
   <teams>
@@ -57,7 +54,7 @@
       <team_name>Gränichen</team_name>
     </team>
     <team>
-      <team_name>La Sarraz-Eclépens</team_name>
+      <team_name>FC Collex-Bossy</team_name>
     </team>
     <team>
       <team_name>La Tour/Le Pâquier</team_name>
@@ -72,7 +69,7 @@
       <team_name>Portalban/Gletterens</team_name>
     </team>
     <team>
-      <team_name>Romontois</team_name>
+      <team_name>CS Romontois</team_name>
     </team>
     <team>
       <team_name>Stade Payerne</team_name>

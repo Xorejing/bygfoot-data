@@ -9,6 +9,7 @@
   <break_in length="1">5</break_in>
   <break_in length="1">8</break_in>
   <break_in length="1">12</break_in>
+  <break_in length="1">16</break_in>
   <break_in length="6">26</break_in>
   <break_in length="1">46</break_in>
   <average_talent>5200</average_talent>
@@ -20,7 +21,7 @@
     <prom_games>
       <prom_games_dest_sid>switzerland3</prom_games_dest_sid>
       <prom_games_number_of_advance>2</prom_games_number_of_advance>
-      <prom_games_cup_sid>switzerland_prom_games2</prom_games_cup_sid>
+      <prom_games_cup_sid>switzerland_prom_games3</prom_games_cup_sid>
       <prom_games_loser_sid>switzerland4a switzerland4b switzerland4c</prom_games_loser_sid>
     </prom_games>
     <prom_rel_element>
@@ -37,14 +38,14 @@
     </team>
     <team>
       <team_name>Lausanne-Sport U21</team_name>
-      <team_average_talent>4000</team_average_talent>
+      <team_average_talent>4600</team_average_talent>
     </team>
     <team>
       <team_name>FC Echallens</team_name>
     </team>
     <team>
       <team_name>FC Sion II</team_name>
-      <team_average_talent>4000</team_average_talent>
+      <team_average_talent>4600</team_average_talent>
     </team>
     <team>
       <team_name>CS Chênois</team_name>
@@ -60,7 +61,7 @@
     </team>
     <team>
       <team_name>Yverdon Sport II</team_name>
-      <team_average_talent>4000</team_average_talent>
+      <team_average_talent>4600</team_average_talent>
     </team>
     <team>
       <team_name>FC Naters</team_name>

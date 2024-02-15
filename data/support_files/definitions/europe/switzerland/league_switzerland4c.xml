@@ -9,6 +9,7 @@
   <break_in length="1">5</break_in>
   <break_in length="1">8</break_in>
   <break_in length="1">12</break_in>
+  <break_in length="1">16</break_in>
   <break_in length="6">26</break_in>
   <break_in length="1">46</break_in>
   <average_talent>5200</average_talent>
@@ -37,11 +38,11 @@
     </team>
     <team>
       <team_name>FC Winterthur II</team_name>
-      <team_average_talent>4000</team_average_talent>
+      <team_average_talent>4600</team_average_talent>
     </team>
     <team>
       <team_name>Grasshoppers II</team_name>
-      <team_average_talent>4000</team_average_talent>
+      <team_average_talent>4600</team_average_talent>
     </team>
     <team>
       <team_name>Wettswil-Bonstetten</team_name>

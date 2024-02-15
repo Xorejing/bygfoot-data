@@ -4,6 +4,7 @@
   <symbol>flag_switzerland.png</symbol>
   <sid>switzerland_prom_games1</sid>
   <add_week>1000</add_week>
+  <last_week>48</last_week>
   <property>national</property>
   <property>highlight2</property>
   <yellow_red>3</yellow_red>

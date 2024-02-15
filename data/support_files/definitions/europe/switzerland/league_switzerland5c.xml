@@ -4,14 +4,16 @@
   <name>2. Liga Interregional Gruppe 3</name>
   <short_name>2. L. G3</short_name>
   <symbol>flag_switzerland.png</symbol>
-  <first_week>7</first_week>
+  <first_week>4</first_week>
   <week_gap>1</week_gap>
+  <break_in length="1">5</break_in>
   <break_in length="1">8</break_in>
   <break_in length="1">12</break_in>
-  <break_in length="1">15</break_in>
-  <break_in length="6">26</break_in>
+  <break_in length="1">16</break_in>
+  <break_in length="4">26</break_in>
   <break_in length="1">46</break_in>
   <average_talent>4600</average_talent>
+  <round_robins>3</round_robins>
   <names_file>germany</names_file>
   <yellow_red>5</yellow_red>
   <layer>5</layer>
@@ -28,11 +30,8 @@
   <!--  9.	SC Binningen 	15	5	3	7	(53)	19	:	25	18-->
   <!--  10.	FC Pratteln 	15	5	3	7	(62)	20	:	29	18-->
   <!--  11.	FC Concordia LS I	14	5	1	8	(74)	23	:	27	16-->
-  <!--  12.	FC Liestal 	15	4	3	8	(54)	18	:	30	15-->
   <!--  13.	FC Erguël I	15	3	5	7	(35)	15	:	20	14-->
   <!--  14.	FC Bubendorf 	15	3	3	9	(44)	20	:	40	12-->
-  <!--  15.	FC Tavannes/Tramelan	13	3	2	8	(38)	21	:	29	11-->
-  <!--  16.	SC Schöftland 1	14	2	4	8	(50)	14	:	31	10-->
 
   <!--  1.	FC Collina d'Oro 	16	10	4	2	(51)	27	:	13	32-->
   <!--  2.	FC Locarno 	16	9	3	4	(119)	27	:	16	28-->
@@ -65,10 +64,10 @@
       <team_name>Lerchenfeld</team_name>
     </team>
     <team>
-      <team_name>Liestal</team_name>
+      <team_name>FC Liestal</team_name>
     </team>
     <team>
-      <team_name>Old Boys</team_name>
+      <team_name>BSC Old Boys</team_name>
     </team>
     <team>
       <team_name>Schönenwerd-Niedergösgen</team_name>
