@@ -26,10 +26,8 @@
       <prom_rel_type>promotion</prom_rel_type>
     </prom_rel_element>
   </prom_rel>
-  <!--  2.	FC Châtel-St-Denis I	16	9	3	4	(54)	36	:	23	30-->
   <!--  3.	FC Martigny-Sports 	15	8	3	4	(55)	39	:	27	27-->
   <!--  4.	FC Amical Saint-Prex I	15	8	3	4	(75)	31	:	16	27-->
-  <!--  6.	Signal FC Bernex-Confignon 	15	7	5	3	(28)	27	:	20	26-->
   <!--  10.	FC Dardania Lausanne I	16	6	2	8	(111)	29	:	33	20-->
   <!--  12.	FC Plan-les-Ouates 1	16	4	4	8	(35)	30	:	36	16-->
   <teams>
@@ -70,7 +68,7 @@
       <team_name>Sierre</team_name>
     </team>
     <team>
-      <team_name>Signal</team_name>
+      <team_name>Signal FC Bernex-Confignon</team_name>
     </team>
     <team>
       <team_name>Urania Genève Sport</team_name>
