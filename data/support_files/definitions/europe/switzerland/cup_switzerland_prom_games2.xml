@@ -1,6 +1,6 @@
 <cup>
-  <name>Superliga Promotion Games</name>
-  <short_name>S. Prom.</short_name>
+  <name>Challenge League Promotion Games</name>
+  <short_name>Ch. Prom.</short_name>
   <symbol>flag_switzerland.png</symbol>
   <sid>switzerland_prom_games2</sid>
   <add_week>1000</add_week>
