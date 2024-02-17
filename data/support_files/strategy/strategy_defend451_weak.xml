@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy>
+  <sid>defend451_90</sid>
+  <desc>451, balanced, best players, minfit 90</desc>
+  <priority>1</priority>
+
+  <prematch>
+    <formation>451</formation>
+    <formation>433</formation>
+    <formation>532</formation>
+    <formation>442</formation>
+    <formation>352</formation>
+    <formation>343</formation>
+
+    <lineup min_fitness="90">best</lineup>
+    <prematch_boost>off</prematch_boost>
+    <prematch_style>balanced</prematch_style>
+  </prematch>
+
+  <prematch cond="_LAYERDIFF_ = 1 or _AVSKILLDIFF_ < -8">
+    <formation>451</formation>
+    <formation>433</formation>
+    <formation>532</formation>
+    <formation>442</formation>
+    <formation>352</formation>
+    <prematch_style>defend</prematch_style>
+  </prematch>
+
+  <prematch cond="_LAYERDIFF_ > 1 or _AVSKILLDIFF_ < -14">
+    <formation>451</formation>
+    <formation>433</formation>
+    <formation>532</formation>
+    <formation>442</formation>
+    <formation>352</formation>
+    <prematch_style>all-out-defend</prematch_style>
+  </prematch>
+
+  <prematch cond="_LAYERDIFF_ = -1 or _AVSKILLDIFF_ < -8">
+    <lineup min_fitness="90">fittest</lineup>
+  </prematch>
+
+  <prematch cond="_LAYERDIFF_ < -1 or _AVSKILLDIFF_ < -14">
+    <lineup min_fitness="90">fittest</lineup>
+    <prematch_boost>off</prematch_boost>
+  </prematch>
+
+  <prematch cond="_GOALSTOWIN_ = 2">
+    <formation>253</formation>
+    <formation>433</formation>
+    <formation>343</formation>
+    <formation>352</formation>
+    <prematch_style>attack</prematch_style>
+  </prematch>
+
+  <prematch cond="_GOALSTOWIN_ > 2">
+    <formation>343</formation>
+    <formation>433</formation>
+    <formation>352</formation>
+    <prematch_boost>on</prematch_boost>
+    <prematch_style>all-out-attack</prematch_style>
+  </prematch>
+
+  <prematch cond="_GOALSTOWIN_ = -2">
+    <formation>451</formation>
+    <formation>532</formation>
+    <formation>442</formation>
+    <formation>352</formation>
+    <prematch_style>balanced</prematch_style>
+  </prematch>
+
+  <prematch cond="_GOALSTOWIN_ < -2">
+    <formation>451</formation>
+    <formation>532</formation>
+    <formation>442</formation>
+    <formation>352</formation>
+    <prematch_style>all-out-defend</prematch_style>
+  </prematch>
+
+  <match_action cond="_MI_ >= 40 and _MI_ < 65 and _GOALSTOWIN_ < -3">
+    <style>defend</style>
+  </match_action>
+
+  <match_action cond="_MI_ >= 50 and _MI_ < 75 and _GOALSTOWIN_ = -2">
+    <sub cond="_SUBSLEFT_ > 1">
+      <in prop="fittest">defender</in>
+      <out prop="weakest">midfielder defender</out>
+    </sub>
+    <style>defend</style>
+  </match_action>
+
+  <match_action cond="_MI_ >= 75 and _GOALSTOWIN_ <= -3">
+    <sub>
+      <in prop="unfittest">forward</in>
+      <out prop="fittest">midfielder defender</out>
+    </sub>
+    <style>all-out-defend</style>
+    <boost>off</boost>
+  </match_action>
+  <match_action cond="_MI_ >= 65 and _MI_ < 80 and _GOALSTOWIN_ <= -3">
+    <sub>
+      <in prop="unfittest">midfielder</in>
+      <out prop="fittest">defender</out>
+    </sub>
+    <style>all-out-defend</style>
+  </match_action>
+  <match_action cond="_MI_ >= 40 and _MI_ < 65 and _GOALSTOWIN_ <= -3">
+    <style>defend</style>
+  </match_action>
+
+  <match_action cond="_MI_ >= 80 and _GOALSTOWIN_ = 3">
+    <sub>
+      <in prop="fittest">defender</in>
+      <out prop="unfittest">midfielder defender</out>
+    </sub>
+    <style>balanced</style>
+    <boost>off</boost>
+  </match_action>
+
+  <match_action cond="_MI_ >= 40 and _MI_ < 65 and _GOALSTOWIN_ > 3">
+    <sub cond="_SUBSLEFT_ > 1">
+      <in prop="fittest">midfielder</in>
+      <out prop="unfittest">midfielder defender</out>
+    </sub>
+    <style>balanced</style>
+    <boost>off</boost>
+  </match_action>
+
+  <match_action cond="_MI_ >= 75 and _GOALSTOWIN_ = 2">
+    <sub>
+      <in prop="best">forward</in>
+      <out prop="weakest">midfielder defender</out>
+    </sub>
+    <style>all-out-attack</style>
+    <boost>on</boost>
+  </match_action>
+  <match_action cond="_MI_ >= 50 and _MI_ < 75 and _GOALSTOWIN_ = 2">
+    <sub cond="_SUBSLEFT_ > 1">
+      <in prop="best">forward</in>
+      <out prop="weakest">midfielder defender</out>
+    </sub>
+    <style>attack</style>
+  </match_action>
+  <match_action cond="_MI_ >= 50 and _MI_ < 75 and _GOALSTOWIN_ = 2">
+    <sub cond="_SUBSLEFT_ > 1">
+      <in prop="best">forward</in>
+      <out prop="weakest">midfielder defender</out>
+    </sub>
+    <style>attack</style>
+  </match_action>
+
+  <match_action cond="_MI_ >= 65 and _MI_ < 80 and _GOALSTOWIN_ = 3">
+    <sub>
+      <in prop="best">forward</in>
+      <out prop="weakest">midfielder defender</out>
+    </sub>
+    <style>all-out-attack</style>
+    <boost>on</boost>
+  </match_action>
+  <match_action cond="_MI_ >= 65 and _MI_ < 80 and _GOALSTOWIN_ = 3">
+    <sub>
+      <in prop="best">forward</in>
+      <out prop="weakest">midfielder defender</out>
+    </sub>
+    <style>all-out-attack</style>
+    <boost>on</boost>
+  </match_action>
+  <match_action cond="_MI_ >= 40 and _MI_ < 65 and _GOALSTOWIN_ = 3">
+    <sub cond="_SUBSLEFT_ > 1">
+      <in prop="best">forward</in>
+      <out prop="weakest">midfielder defender</out>
+    </sub>
+    <style>all-out-attack</style>
+  </match_action>
+  <match_action cond="_MI_ >= 40 and _MI_ < 65 and _GOALSTOWIN_ = 3">
+    <sub cond="_SUBSLEFT_ > 1">
+      <in prop="best">forward</in>
+      <out prop="weakest">midfielder defender</out>
+    </sub>
+    <style>all-out-attack</style>
+  </match_action>
+
+  <match_action cond="_MI_ < 40 and _GOALSTOWIN_ < -2">
+    <style>defend</style>
+  </match_action>
+  <match_action cond="_MI_ < 40 and _GOALSTOWIN_ < -3">
+    <style>all-out-defend</style>
+  </match_action>
+  <match_action cond="_MI_ < 40 and _GOALSTOWIN_ > 2">
+    <style>attack</style>
+  </match_action>
+  <match_action cond="_MI_ < 40 and _GOALSTOWIN_ > 3">
+    <style>all-out-attack</style>
+  </match_action>
+
+  <!-- let the talents play -->
+  <match_action cond="_MI_ >= 80 and _GOALSTOWIN_ > 2 or _GOALSTOWIN_ < -2">
+    <sub>
+      <in prop="weakest">forward</in>
+      <out prop="unfittest">forward midfielder defender</out>
+    </sub>
+    <sub>
+      <in prop="weakest">defender</in>
+      <out prop="unfittest">forward midfielder defender</out>
+    </sub>
+    <sub>
+      <in prop="weakest">midfielder</in>
+      <out prop="unfittest">forward midfielder defender</out>
+    </sub>
+  </match_action>
+  <match_action cond="_MI_ >= 80 and _GOALSTOWIN_ > 2 or _GOALSTOWIN_ < -2">
+    <sub>
+      <in prop="weakest">forward</in>
+      <out prop="unfittest">forward midfielder defender</out>
+    </sub>
+    <sub>
+      <in prop="weakest">midfielder</in>
+      <out prop="unfittest">forward midfielder defender</out>
+    </sub>
+    <sub>
+      <in prop="weakest">defender</in>
+      <out prop="unfittest">forward midfielder defender</out>
+    </sub>
+  </match_action>
+  <match_action cond="_MI_ >= 80 and _GOALSTOWIN_ > 2 or _GOALSTOWIN_ < -2">
+    <sub>
+      <in prop="weakest">midfielder</in>
+      <out prop="unfittest">forward midfielder defender</out>
+    </sub>
+    <sub>
+      <in prop="weakest">forward</in>
+      <out prop="unfittest">forward midfielder defender</out>
+    </sub>
+    <sub>
+      <in prop="weakest">defender</in>
+      <out prop="unfittest">forward midfielder defender</out>
+    </sub>
+  </match_action>
+
+</strategy>

@@ -57,7 +57,7 @@
 					<end_idx>1</end_idx>
 				</choose_team>
 				<choose_team>
-                    <wait_for_cup round="10">uefa2024_cl_r*</wait_for_cup>
+                    <wait_for_cup round="9">uefa2024_cl_r*</wait_for_cup>
                     <skip_group_check>1</skip_group_check>
                     <preload>0</preload>        
 					<choose_team_sid>uefa2024_cl_r*</choose_team_sid>

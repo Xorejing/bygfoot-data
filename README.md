@@ -14,3 +14,8 @@ Additional definition files for the [bygfoot](https://bygfoot.sourceforge.io/new
   * Liechtenstein: playable Cup to qualify for UEFA CL
   * Switzerland: League setups have changed; layer 5 is unchanged, not enough information available
 
+### more strategies
+
+  * a lot of teams don't like high (forward) pressing
+  * how to crack a real defense?
+  * _weak : nothing worse for a team than a bad mood on the sideline
