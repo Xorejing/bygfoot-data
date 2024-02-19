@@ -613,7 +613,7 @@
           <choose_team_sid>russia1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <start_idx>3</start_idx>
-          <end_idx>3</end_idx>
+          <end_idx>4</end_idx>
         </choose_team>
         <choose_team>
           <choose_team_sid>ukraine1</choose_team_sid>
@@ -631,7 +631,7 @@
           <choose_team_sid>russia1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <start_idx>4</start_idx>
-          <end_idx>4</end_idx>
+          <end_idx>5</end_idx>
         </choose_team>
         <choose_team>
           <choose_team_sid>ukraine1</choose_team_sid>

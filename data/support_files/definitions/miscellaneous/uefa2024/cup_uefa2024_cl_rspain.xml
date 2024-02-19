@@ -444,7 +444,7 @@
           <choose_team_sid>spain1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <start_idx>1</start_idx>
-          <end_idx>1</end_idx>
+          <end_idx>2</end_idx>
         </choose_team>
         <choose_team>
           <choose_team_sid>england1</choose_team_sid>
@@ -480,7 +480,7 @@
           <choose_team_sid>spain1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <start_idx>2</start_idx>
-          <end_idx>2</end_idx>
+          <end_idx>3</end_idx>
         </choose_team>
         <choose_team>
           <choose_team_sid>england1</choose_team_sid>
@@ -510,7 +510,7 @@
           <choose_team_sid>spain1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <start_idx>3</start_idx>
-          <end_idx>3</end_idx>
+          <end_idx>4</end_idx>
         </choose_team>
         <choose_team>
           <choose_team_sid>england1</choose_team_sid>
@@ -534,7 +534,7 @@
           <choose_team_sid>spain1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <start_idx>4</start_idx>
-          <end_idx>4</end_idx>
+          <end_idx>5</end_idx>
         </choose_team>
         <choose_team>
           <choose_team_sid>england1</choose_team_sid>
@@ -546,7 +546,7 @@
           <choose_team_sid>spain1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <start_idx>8</start_idx>
-          <end_idx>8</end_idx>
+          <end_idx>9</end_idx>
         </choose_team>
         <choose_team>
           <choose_team_sid>england1</choose_team_sid>
