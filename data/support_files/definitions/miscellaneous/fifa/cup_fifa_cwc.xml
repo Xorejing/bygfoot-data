@@ -19,7 +19,7 @@
 			<new_teams>4</new_teams>
 			<choose_teams>
 				<choose_team>
-					<choose_team_sid>caf</choose_team_sid>
+					<choose_team_sid>caf_teams</choose_team_sid>
 					<number_of_teams>1</number_of_teams>
 					<randomly>1</randomly>
 					<generate>1</generate>

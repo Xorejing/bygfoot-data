@@ -2,11 +2,11 @@
   <name>UEFA Champions League</name>
   <symbol>flag_eu.png</symbol>
   <sid>uefa2024_cl_rnetherlands</sid>
+  <group>1</group>
+  <short_name>UCL</short_name>
   <property>international</property>
   <property>league_talents</property>
   <property>highlight1</property>
-  <group>1</group>
-  <short_name>UCL</short_name>
   <break_in length="1">18</break_in>
   <break_in length="1">20</break_in>
   <break_in length="1">22</break_in>
@@ -26,7 +26,6 @@
     <cup_round>
       <byes>0</byes>
       <delay>-23</delay>
-      <round_number>1</round_number>
       <round_name>1st Qualifying Round</round_name>
       <new_teams>32</new_teams>
       <choose_teams>
@@ -227,7 +226,6 @@
     <cup_round>
       <byes>0</byes>
       <delay>-21</delay>
-      <round_number>2</round_number>
       <round_name>2nd Qualifying Round</round_name>
       <new_teams>14</new_teams>
       <choose_teams>
@@ -316,7 +314,6 @@
     <cup_round>
       <byes>0</byes>
       <delay>-19</delay>
-      <round_number>3</round_number>
       <round_name>3rd Qualifying Round</round_name>
       <new_teams>5</new_teams>
       <choose_teams>
@@ -342,7 +339,7 @@
           <choose_team_sid>netherlands1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <start_idx>3</start_idx>
-          <end_idx>4</end_idx>
+          <end_idx>5</end_idx>
         </choose_team>
         <choose_team>
           <choose_team_sid>france1</choose_team_sid>
@@ -355,7 +352,6 @@
     <cup_round>
       <byes>0</byes>
       <delay>-17</delay>
-      <round_number>4</round_number>
       <round_name>Play-Off Round</round_name>
       <new_teams>4</new_teams>
       <choose_teams>
@@ -387,7 +383,6 @@
     </cup_round>
     <cup_round>
       <delay>-16</delay>
-      <round_number>5</round_number>
       <round_name>Group Stage</round_name>
       <new_teams>29</new_teams>
       <home_away>0</home_away>
@@ -420,7 +415,7 @@
           <choose_team_sid>netherlands1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <start_idx>1</start_idx>
-          <end_idx>2</end_idx>
+          <end_idx>3</end_idx>
         </choose_team>
         <choose_team>
           <choose_team_sid>france1</choose_team_sid>
@@ -456,7 +451,7 @@
           <choose_team_sid>netherlands1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <start_idx>2</start_idx>
-          <end_idx>3</end_idx>
+          <end_idx>4</end_idx>
         </choose_team>
         <choose_team>
           <choose_team_sid>france1</choose_team_sid>
@@ -595,7 +590,6 @@
     <cup_round>
       <byes>0</byes>
       <delay>-7</delay>
-      <round_number>6</round_number>
       <round_name>Selection Round / Round of 16</round_name>
       <home_away>0</home_away>
       <number_of_groups>8</number_of_groups>
@@ -603,16 +597,13 @@
     </cup_round>
     <cup_round>
       <delay>-4</delay>
-      <round_number>7</round_number>
       <round_name>Quarter-Final</round_name>
     </cup_round>
     <cup_round>
       <delay>-2</delay>
-      <round_number>8</round_number>
       <round_name>Semi-Finals</round_name>
     </cup_round>
     <cup_round>
-      <round_number>9</round_number>
       <round_name>Final</round_name>
       <home_away>0</home_away>
       <neutral>1</neutral>

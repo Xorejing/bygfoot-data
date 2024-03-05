@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>caf_teams</sid>
+  <name>CAF Teams</name>
+  <short_name>CAFT</short_name>
+  <average_talent>7700</average_talent>
+  <property>inactive</property>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <!-- Togo -->
+      <team_name>ASC Kara</team_name>
+      <team_average_talent>7845</team_average_talent>
+      <team_symbol>flag_togo.png</team_symbol>
+    </team>
+    <team>
+      <!-- Senegal -->
+      <team_name>Teungueth FC</team_name>
+      <team_average_talent>8395</team_average_talent>
+      <team_symbol>flag_senegal.png</team_symbol>
+    </team>
+    <team>
+      <!-- Zambia -->
+      <team_name>Nkwazi</team_name>
+      <team_average_talent>7905</team_average_talent>
+      <team_symbol>flag_zambia.png</team_symbol>
+    </team>
+    <team>
+      <!-- Congo -->
+      <team_name>Otohô</team_name>
+      <team_average_talent>6985</team_average_talent>
+      <team_symbol>flag_congo.png</team_symbol>
+    </team>
+    <team>
+      <!-- Mali -->
+      <team_name>AS Bakaridjan</team_name>
+      <team_average_talent>7750</team_average_talent>
+      <team_symbol>flag_mali.png</team_symbol>
+    </team>
+    <team>
+      <!-- Liberia -->
+      <team_name>Watanga</team_name>
+      <team_average_talent>6520</team_average_talent>
+      <team_symbol>flag_liberia.png</team_symbol>
+    </team>
+    <team>
+      <!-- Ghana -->
+      <team_name>Asante Kotoko</team_name>
+      <team_average_talent>8000</team_average_talent>
+      <team_symbol>flag_ghana.png</team_symbol>
+    </team>
+    <team>
+      <!-- Congo DR -->
+      <team_name>TP Mazembe</team_name>
+      <team_average_talent>7720</team_average_talent>
+      <team_symbol>flag_congodr.png</team_symbol>
+    </team>
+    <team>
+      <!-- South Africa -->
+      <team_name>Cape Town City</team_name>
+      <team_average_talent>7965</team_average_talent>
+      <team_symbol>flag_rsa.png</team_symbol>
+    </team>
+    <team>
+      <!-- Burkina Faso -->
+      <team_name>AS Koupéla</team_name>
+      <team_average_talent>7500</team_average_talent>
+      <team_symbol>flag_burkina_faso.png</team_symbol>
+    </team>
+    <team>
+      <!-- Cape Verde Islands -->
+      <team_name>Mindelense</team_name>
+      <team_average_talent>6800</team_average_talent>
+      <team_symbol>flag_cpv.png</team_symbol>
+    </team>
+    <team>
+      <!-- Uganda -->
+      <team_name>Kitara FC (Uganda)</team_name>
+      <team_average_talent>7340</team_average_talent>
+      <team_symbol>flag_uganda.png</team_symbol>
+    </team>
+    <team>
+      <!-- Cameroon -->
+      <team_name>Stade Renard</team_name>
+      <team_average_talent>8610</team_average_talent>
+      <team_symbol>flag_cameroon.png</team_symbol>
+    </team>
+    <team>
+      <!-- Côte d'Ivoire -->
+      <team_name>Mimosas</team_name>
+      <team_average_talent>8345</team_average_talent>
+      <team_symbol>flag_cdi.png</team_symbol>
+    </team>
+    <team>
+      <!-- Egypt -->
+      <team_name>Al-Ittihad</team_name>
+      <team_average_talent>8540</team_average_talent>
+      <team_symbol>flag_egypt.png</team_symbol>
+    </team>
+    <team>
+      <!-- Libya -->
+      <team_name>Al-Ahly Benghazi</team_name>
+      <team_average_talent>7555</team_average_talent>
+      <team_symbol>flag_libya.png</team_symbol>
+    </team>
+    <team>
+      <!-- Sudan -->
+      <team_name>Al-Hilal</team_name>
+      <team_average_talent>7340</team_average_talent>
+      <team_symbol>flag_sudan.png</team_symbol>
+    </team>
+    <team>
+      <!-- Benin -->
+      <team_name>Coton</team_name>
+      <team_average_talent>6935</team_average_talent>
+      <team_symbol>flag_benin.png</team_symbol>
+    </team>
+    <team>
+      <!-- Angola -->
+      <team_name>CD Lunda Sul</team_name>
+      <team_average_talent>7905</team_average_talent>
+      <team_symbol>flag_angola.png</team_symbol>
+    </team>
+    <team>
+      <!-- Nigeria -->
+      <team_name>Enyimba</team_name>
+      <team_average_talent>8680</team_average_talent>
+      <team_symbol>flag_nigeria.png</team_symbol>
+    </team>
+    <team>
+      <!-- Zimbabwe -->
+      <team_name>Dynamos Harare FC</team_name>
+      <team_average_talent>7930</team_average_talent>
+      <team_symbol>flag_zimbabwe.png</team_symbol>
+    </team>
+    <team>
+      <!-- Gabon -->
+      <team_name>AS Stade Mandji</team_name>
+      <team_average_talent>7240</team_average_talent>
+      <team_symbol>flag_gabon.png</team_symbol>
+    </team>
+    <team>
+      <!-- Algeria -->
+      <team_name>Belouizdad</team_name>
+      <team_average_talent>7525</team_average_talent>
+      <team_symbol>flag_algeria.png</team_symbol>
+    </team>
+    <team>
+      <!-- Rwanda -->
+      <team_name>APR Kigali FC</team_name>
+      <team_average_talent>7380</team_average_talent>
+      <team_symbol>flag_rwanda.png</team_symbol>
+    </team>
+    <team>
+      <!-- Tunisia -->
+      <team_name>Tataouine</team_name>
+      <team_average_talent>8465</team_average_talent>
+      <team_symbol>flag_tunisia.png</team_symbol>
+    </team>
+    <team>
+      <!-- Morocco -->
+      <team_name>FUS Rabat</team_name>
+      <team_average_talent>8230</team_average_talent>
+      <team_symbol>flag_morocco.png</team_symbol>
+    </team>
+    <team>
+      <!-- Guinea -->
+      <team_name>CI Kamsar</team_name>
+      <team_average_talent>7985</team_average_talent>
+      <team_symbol>flag_guinea.png</team_symbol>
+    </team>
+    <team>
+      <!-- Kenya -->
+      <team_name>Gor Mahia</team_name>
+      <team_average_talent>7355</team_average_talent>
+      <team_symbol>flag_kenya.png</team_symbol>
+    </team>
+    <team>
+      <!-- Botswana -->
+      <team_name>Gaborone</team_name>
+      <team_average_talent>7270</team_average_talent>
+      <team_symbol>flag_botswana.png</team_symbol>
+    </team>
+    <team>
+      <!-- Malawi -->
+      <team_name>Nyasa Big Bullets</team_name>
+      <team_average_talent>7180</team_average_talent>
+      <team_symbol>flag_malawi.png</team_symbol>
+    </team>
+    <team>
+      <!-- Burundi -->
+      <team_name>Musongati FC</team_name>
+      <team_average_talent>7000</team_average_talent>
+      <team_symbol></team_symbol>
+    </team>
+    <team>
+      <!-- Ethiopia -->
+      <team_name>Mekelakeya</team_name>
+      <team_average_talent>7000</team_average_talent>
+      <team_symbol></team_symbol>
+    </team>
+    <team>
+      <!-- Tanzania -->
+      <team_name>Dodoma Jiji FC</team_name>
+      <team_average_talent>7000</team_average_talent>
+      <team_symbol></team_symbol>
+    </team>
+    <team>
+      <!-- Gambia -->
+      <team_name>Real De Banjul</team_name>
+      <team_average_talent>7000</team_average_talent>
+      <team_symbol></team_symbol>
+    </team>
+    <team>
+      <!-- Namibia -->
+      <team_name>Khomas Nampol</team_name>
+      <team_average_talent>7000</team_average_talent>
+      <team_symbol></team_symbol>
+    </team>
+    <team>
+      <!-- Mozambique -->
+      <team_name>Beira</team_name>
+      <team_average_talent>7000</team_average_talent>
+      <team_symbol></team_symbol>
+    </team>
+    <team>
+      <!-- Sierra Leone -->
+      <team_name>Kallon</team_name>
+      <team_average_talent>7000</team_average_talent>
+      <team_symbol></team_symbol>
+    </team>
+    <team>
+      <!-- Niger -->
+      <team_name>ASN Nigelec FC</team_name>
+      <team_average_talent>7000</team_average_talent>
+      <team_symbol></team_symbol>
+    </team>
+    <team>
+      <!-- Eswatini (Swaziland) -->
+      <team_name>Mbabane Highlanders</team_name>
+      <team_average_talent>7000</team_average_talent>
+      <team_symbol></team_symbol>
+    </team>
+    <team>
+      <!-- Mauritania -->
+      <team_name>ACS Ksar</team_name>
+      <team_average_talent>7000</team_average_talent>
+      <team_symbol></team_symbol>
+    </team>
+  </teams>
+</league>

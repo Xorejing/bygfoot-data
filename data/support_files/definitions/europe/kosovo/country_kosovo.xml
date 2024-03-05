@@ -7,11 +7,18 @@
 
   <leagues>
     <league>kosovo1</league>
-    <league>kosovo2</league>
+    <league>kosovo2a</league>
+    <league>kosovo2b</league>
+    <league>kosovo3</league>
   </leagues>
 
   <cups>
     <cup>kosovar_cup</cup>
+    <cup>kosovo_supercup</cup>
+    <cup>kosovo_promo1</cup>
+    <cup>kosovo_promo2</cup>
+    <cup>kosovo_league3a</cup>
+    <cup>kosovo_league3b</cup>
 
     <cup>uefa2024_ecl_rkosovo</cup>
     <cup>uefa2024_el_rkosovo</cup>

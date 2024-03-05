@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cup>
+  <name>Africa Football League</name>
+  <short_name>AFL</short_name>
+  <symbol>flag_eu.png</symbol>
+  <sid>africa_football_league</sid>
+  <group>7</group>
+  <yellow_red>3</yellow_red>
+
+  <property>international</property>
+  <property>league_talents</property>
+  <property>highlight1</property>
+
+
+</cup>

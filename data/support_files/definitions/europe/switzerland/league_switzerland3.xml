@@ -6,7 +6,7 @@
   <symbol>flag_switzerland.png</symbol>
   <first_week>4</first_week>
   <week_gap>1</week_gap>
-S  <break_in length="1">8</break_in>
+  <break_in length="1">8</break_in>
   <break_in length="1">12</break_in>
   <break_in length="1">16</break_in>
   <break_in length="4">26</break_in>
@@ -65,10 +65,10 @@ S  <break_in length="1">8</break_in>
       <team_name>FC Biel/Bienne</team_name>
     </team>
     <team>
-      <team_name>SC Brühl</team_name>--
+      <team_name>SC Brühl</team_name>
     </team>
     <team>
-      <team_name>FC Bulle</team_name>--
+      <team_name>FC Bulle</team_name>
     </team>
     <team>
       <team_name>FC Bavois</team_name>
