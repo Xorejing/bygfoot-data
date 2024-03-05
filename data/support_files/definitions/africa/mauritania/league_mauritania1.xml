@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>mauritania1</sid>
+  <name>Super D1</name>
+  <short_name>SD1</short_name>
+  <symbol>flag_mauritania.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>5000</average_talent>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>ACS Ksar</team_name>
+    </team>
+    <team>
+      <team_name>AS Douanes</team_name>
+    </team>
+    <team>
+      <team_name>AS Garde Nationale</team_name>
+    </team>
+    <team>
+      <team_name>ASAC Concorde</team_name>
+    </team>
+    <team>
+      <team_name>ASC Police</team_name>
+    </team>
+    <team>
+      <team_name>ASC Snim Nouadhibou</team_name>
+    </team>
+    <team>
+      <team_name>ASC Tidjikja</team_name>
+    </team>
+    <team>
+      <team_name>FC Gourel Sangue</team_name>
+    </team>
+    <team>
+      <team_name>FC Médine Trarza</team_name>
+    </team>
+    <team>
+      <team_name>FC Nouadhibou</team_name>
+    </team>
+    <team>
+      <team_name>FC Tevragh-Zeina</team_name>
+    </team>
+    <team>
+      <team_name>FC Sahel</team_name>
+    </team>
+    <team>
+      <team_name>Kaédi FC</team_name>
+    </team>
+    <team>
+      <team_name>Nouakchott Kings</team_name>
+    </team>
+  </teams>
+
+</league>
+
+  <!-- Team 	Location 	Stadium 	Capacity -->
+  <!--  ACS Ksar 	Nouakchott 	Stade Olympique (Nouakchott) 	20,000-->
+  <!--  AS Douanes 	Nouakchott 	Stade Cheikha Ould Boïdiya 	8,200-->
+  <!--  AS Garde Nationale 	Nouakchott 	Stade Olympique (Nouakchott) 	20,000-->
+  <!--  ASAC Concorde 	Nouakchott 	Stade Olympique (Nouakchott) 	20,000-->
+  <!--  ASC Police 	Nouakchott 	Stade Olympique (Nouakchott) 	20,000-->
+  <!--  ASC Snim 	Nouadhibou 	Stade Municipal de Nouadhibou 	10,000-->
+  <!--  ASC Tidjikja 	Nouakchott 	Stade Olympique (Nouakchott) 	20,000-->
+  <!--  FC Gourel Sangue 	Nouakchott-->
+  <!--  FC Médine Trarza 	Atar-->
+  <!--  FC Nouadhibou 	Nouadhibou 	Stade Municipal de Nouadhibou 	10,000-->
+  <!--  FC Tevragh-Zeina 	Nouakchott 	Stade Olympique (Nouakchott) 	20,000-->
+  <!--  FC Sahel 	Sahel-->
+  <!--  Kaédi FC 	Nouakchott-->
+  <!--  Nouakchott Kings 	Nouakchott 	Stade Olympique (Nouakchott) 	20,000-->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Sudan</name>
+  <symbol>flag_sudan.png</symbol>
+  <sid>sudan</sid>
+  <rating>6</rating>
+
+  <leagues>
+    <league>sudan1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

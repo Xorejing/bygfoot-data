@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Guinea</name>
+  <symbol>flag_guinea.png</symbol>
+  <sid>guinea</sid>
+  <rating>5</rating>
+
+  <leagues>
+    <league>guinea1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

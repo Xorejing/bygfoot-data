@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Kenya</name>
+  <symbol>flag_kenya.png</symbol>
+  <sid>kenya</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>kenya1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

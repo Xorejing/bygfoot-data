@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Côte d'Ivoire</name>
+  <symbol>flag_cdi.png</symbol>
+  <sid>cdi</sid>
+  <rating>5</rating>
+
+  <leagues>
+    <league>cdi1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

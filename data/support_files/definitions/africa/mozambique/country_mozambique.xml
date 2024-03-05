@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Mozambique</name>
+  <symbol>flag_mozambique.png</symbol>
+  <sid>mozambique</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>mozambique1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

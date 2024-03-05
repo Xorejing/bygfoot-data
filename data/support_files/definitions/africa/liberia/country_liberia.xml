@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Liberia</name>
+  <symbol>flag_liberia.png</symbol>
+  <sid>liberia</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>liberia1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

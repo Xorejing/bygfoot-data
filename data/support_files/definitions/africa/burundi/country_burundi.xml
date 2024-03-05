@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Burundi</name>
+  <symbol>flag_burundi.png</symbol>
+  <sid>burundi</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>burundi1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

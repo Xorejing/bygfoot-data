@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Gambia</name>
+  <symbol>flag_gambia.png</symbol>
+  <sid>gambia</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>gambia1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

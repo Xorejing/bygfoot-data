@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Morocco</name>
+  <symbol>flag_morocco.png</symbol>
+  <sid>morocco</sid>
+  <rating>7</rating>
+
+  <leagues>
+    <league>morocco1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

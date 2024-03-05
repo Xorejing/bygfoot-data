@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Angola</name>
+  <symbol>flag_angola.png</symbol>
+  <sid>angola</sid>
+  <rating>6</rating>
+
+  <leagues>
+    <league>angola1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

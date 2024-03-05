@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>namibia1</sid>
+  <name>Debmarine Namibia Premiership</name>
+  <short_name>DNP</short_name>
+  <symbol>flag_namibia.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>7000</average_talent>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>Khomas Nampol</team_name>
+    </team>
+    <team>
+      <team_name>African Stars</team_name>
+    </team>
+    <team>
+      <team_name>Ongos</team_name>
+    </team>
+    <team>
+      <team_name>Eeshoke Chula Chula</team_name>
+    </team>
+    <team>
+      <team_name>Blue Waters</team_name>
+    </team>
+    <team>
+      <team_name>Tigers</team_name>
+    </team>
+    <team>
+      <team_name>Young Brazilians</team_name>
+    </team>
+    <team>
+      <team_name>Mighty Gunners</team_name>
+    </team>
+    <team>
+      <team_name>Young African</team_name>
+    </team>
+    <team>
+      <team_name>Okahandja United</team_name>
+    </team>
+    <team>
+      <!-- University of Namibia -->
+      <team_name>UNAM</team_name>
+    </team>
+    <team>
+      <team_name>Julinho Sporting</team_name>
+    </team>
+    <team>
+      <team_name>Okakarara Young Warriors</team_name>
+    </team>
+    <team>
+      <team_name>Civics</team_name>
+    </team>
+    <team>
+      <team_name>Life Fighters</team_name>
+    </team>
+    <team>
+      <team_name>Orlando Pirates</team_name>
+    </team>
+  </teams>
+
+</league>

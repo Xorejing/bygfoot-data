@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Libya</name>
+  <symbol>flag_libya.png</symbol>
+  <sid>libya</sid>
+  <rating>5</rating>
+
+  <leagues>
+    <league>libya1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

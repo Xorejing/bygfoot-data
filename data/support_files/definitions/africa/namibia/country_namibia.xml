@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Namibia</name>
+  <symbol>flag_namibia.png</symbol>
+  <sid>namibia</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>namibia1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

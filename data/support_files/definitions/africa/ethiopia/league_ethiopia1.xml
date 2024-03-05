@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>ethiopia1</sid>
+  <name>Premier League</name>
+  <short_name>PL</short_name>
+  <symbol>flag_ethiopia.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>7000</average_talent>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>Ethiopia Nigd Bank</team_name>
+    </team>
+    <team>
+      <team_name>Mekelakeya</team_name>
+    </team>
+    <team>
+      <team_name>Saint George</team_name>
+    </team>
+    <team>
+      <team_name>Bunna</team_name>
+    </team>
+    <team>
+      <team_name>Fasil Ketema</team_name>
+    </team>
+    <team>
+      <team_name>Bahir Dar Kenema FC</team_name>
+    </team>
+    <team>
+      <team_name>Adama City</team_name>
+    </team>
+    <team>
+      <team_name>Hadiya Hossana</team_name>
+    </team>
+    <team>
+      <team_name>Dire Dawa</team_name>
+    </team>
+    <team>
+      <team_name>Wolaita Dicha FC</team_name>
+    </team>
+    <team>
+      <team_name>Hawassa City</team_name>
+    </team>
+    <team>
+      <team_name>Sidama Bunna</team_name>
+    </team>
+    <team>
+      <team_name>Ethiopian Medhin</team_name>
+    </team>
+    <team>
+      <team_name>Shashemene Kenema</team_name>
+    </team>
+    <team>
+      <team_name>Wolkite</team_name>
+    </team>
+    <team>
+      <team_name>Hambericho Durame</team_name>
+    </team>
+  </teams>
+
+</league>

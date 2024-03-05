@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Ghana</name>
+  <symbol>flag_ghana.png</symbol>
+  <sid>ghana</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>ghana1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

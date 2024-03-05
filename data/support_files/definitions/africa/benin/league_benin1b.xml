@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>benin1b</sid>
+  <name>Premier League Group B</name>
+  <short_name>PL B</short_name>
+  <symbol>flag_benin.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>5000</average_talent>
+  <first_week>5</first_week>
+  <yellow_red>5</yellow_red>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <!-- Group B -->
+    <team>
+      <team_name>Dadje FC d'Aplahoué</team_name>
+    </team>
+    <team>
+      <team_name>Dynamo Abomey FC</team_name>
+    </team>
+    <team>
+      <team_name>Energie FC Sèmè-Kpodji</team_name>
+    </team>
+    <team>
+      <team_name>FC Loto Sakété</team_name>
+    </team>
+    <team>
+      <team_name>Espoir FC Savalou</team_name>
+    </team>
+    <team>
+      <team_name>Hodio FC Comè</team_name>
+    </team>
+    <team>
+      <team_name>Soleil FC Cotonou</team_name>
+    </team>
+    <team>
+      <team_name>Tonnerre d'Abomey FC</team_name>
+    </team>
+    <team>
+      <team_name>US Baboni Parakou</team_name>
+    </team>
+  </teams>
+
+</league>

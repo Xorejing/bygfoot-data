@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>gambia1</sid>
+  <name>GFF First Division</name>
+  <short_name>GFF FD</short_name>
+  <symbol>flag_gambia.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>7000</average_talent>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>Real De Banjul</team_name>
+    </team>
+    <team>
+      <team_name>Fortune</team_name>
+    </team>
+    <team>
+      <team_name>Team Rhino</team_name>
+    </team>
+    <team>
+      <team_name>Greater Tomorrow</team_name>
+    </team>
+    <team>
+      <team_name>Falcons</team_name>
+    </team>
+    <team>
+      <team_name>Steve Biko</team_name>
+    </team>
+    <team>
+      <team_name>Banjul United</team_name>
+    </team>
+    <team>
+      <team_name>Marimoo Pakfood</team_name>
+    </team>
+    <team>
+      <team_name>TMT FA</team_name>
+    </team>
+    <team>
+      <team_name>Gambia Armed Forces</team_name>
+    </team>
+    <team>
+      <team_name>BST Galaxy</team_name>
+    </team>
+    <team>
+      <team_name>Bombada</team_name>
+    </team>
+    <team>
+      <team_name>Samger FC</team_name>
+    </team>
+    <team>
+      <team_name>Brikama United</team_name>
+    </team>
+    <team>
+      <team_name>WAA Banjul</team_name>
+    </team>
+    <team>
+      <team_name>Wallidan</team_name>
+    </team>
+  </teams>
+
+</league>

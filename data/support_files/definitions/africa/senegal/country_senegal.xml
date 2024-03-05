@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Senegal</name>
+  <symbol>flag_senegal.png</symbol>
+  <sid>senegal</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>senegal1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

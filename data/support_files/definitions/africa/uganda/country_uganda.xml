@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Uganda</name>
+  <symbol>flag_uganda.png</symbol>
+  <sid>uganda</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>uganda1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

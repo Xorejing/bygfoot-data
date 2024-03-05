@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Zimbabwe</name>
+  <symbol>flag_zimbabwe.png</symbol>
+  <sid>zimbabwe</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>zimbabwe1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

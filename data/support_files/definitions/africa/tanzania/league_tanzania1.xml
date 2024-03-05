@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>tanzania1</sid>
+  <name>Premier League</name>
+  <short_name>PL</short_name>
+  <symbol>flag_tanzania.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>6500</average_talent>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>Young Africans</team_name>
+    </team>
+    <team>
+      <team_name>Azam FC</team_name>
+    </team>
+    <team>
+      <team_name>Simba</team_name>
+    </team>
+    <team>
+      <team_name>Coastal Union</team_name>
+    </team>
+    <team>
+      <team_name>KMC</team_name>
+    </team>
+    <team>
+      <team_name>Tanzania Prisons</team_name>
+    </team>
+    <team>
+      <team_name>Kagera Sugar</team_name>
+    </team>
+    <team>
+      <team_name>Singida BS FC</team_name>
+    </team>
+    <team>
+      <team_name>Tabora</team_name>
+    </team>
+    <team>
+      <team_name>Namungo FC</team_name>
+    </team>
+    <team>
+      <team_name>Ihefu FC</team_name>
+    </team>
+    <team>
+      <team_name>Dodoma Jiji FC</team_name>
+    </team>
+    <team>
+      <team_name>JKT Tanzania</team_name>
+    </team>
+    <team>
+      <team_name>Mashujaa FC</team_name>
+    </team>
+    <team>
+      <team_name>Geita Gold</team_name>
+    </team>
+    <team>
+      <team_name>Mtibwa Sugar</team_name>
+    </team>
+  </teams>
+
+</league>

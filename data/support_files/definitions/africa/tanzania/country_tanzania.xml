@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Tanzania</name>
+  <symbol>flag_tanzania.png</symbol>
+  <sid>tanzania</sid>
+  <rating>6</rating>
+
+  <leagues>
+    <league>tanzania1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

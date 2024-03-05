@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>benin1a</sid>
+  <name>Premier League Group A</name>
+  <short_name>PL A</short_name>
+  <symbol>flag_benin.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>5000</average_talent>
+  <first_week>5</first_week>
+  <yellow_red>5</yellow_red>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <!-- Group A -->
+    <team>
+      <team_name>Béké FC de Bembèrèkè</team_name>
+    </team>
+    <team>
+      <team_name>Buffles du Borgou FC</team_name>
+    </team>
+    <team>
+      <team_name>Cavaliers FC</team_name>
+    </team>
+    <team>
+      <team_name>Damissa FC</team_name>
+    </team>
+    <team>
+      <team_name>Dynamique Djougou</team_name>
+    </team>
+    <team>
+      <team_name>Dynamo Parakou</team_name>
+    </team>
+    <team>
+      <team_name>Real Sport de Parakou FC</team_name>
+    </team>
+    <team>
+      <team_name>Panthères FC</team_name>
+    </team>
+    <team>
+      <team_name>Takunnin FC</team_name>
+    </team>
+  </teams>
+
+</league>

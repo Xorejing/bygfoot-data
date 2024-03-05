@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Tunisia</name>
+  <symbol>flag_tunisia.png</symbol>
+  <sid>tunisia</sid>
+  <rating>7</rating>
+
+  <leagues>
+    <league>tunisia1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

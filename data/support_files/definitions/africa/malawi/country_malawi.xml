@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Malawi</name>
+  <symbol>flag_malawi.png</symbol>
+  <sid>malawi</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>malawi1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

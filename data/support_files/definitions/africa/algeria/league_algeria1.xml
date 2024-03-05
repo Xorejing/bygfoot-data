@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>algeria1</sid>
+  <name>Ligue 1</name>
+  <short_name>L1</short_name>
+  <symbol>flag_algeria.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>7000</average_talent>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>MC Alger</team_name>
+    </team>
+    <team>
+      <team_name>Paradou</team_name>
+    </team>
+    <team>
+      <team_name>Belouizdad</team_name>
+    </team>
+    <team>
+      <team_name>Constantine</team_name>
+    </team>
+    <team>
+      <team_name>ES Sétif</team_name>
+    </team>
+    <team>
+      <team_name>USM Khenchela</team_name>
+    </team>
+    <team>
+      <team_name>Kabylie</team_name>
+    </team>
+    <team>
+      <team_name>USM Alger</team_name>
+    </team>
+    <team>
+      <team_name>El Bayadh</team_name>
+    </team>
+    <team>
+      <team_name>Biskra</team_name>
+    </team>
+    <team>
+      <team_name>Saoura</team_name>
+    </team>
+    <team>
+      <team_name>Chlef</team_name>
+    </team>
+    <team>
+      <team_name>Magra</team_name>
+    </team>
+    <team>
+      <team_name>Oran</team_name>
+    </team>
+    <team>
+      <team_name>Aknoun</team_name>
+    </team>
+    <team>
+      <team_name>US Souf</team_name>
+    </team>
+  </teams>
+
+</league>

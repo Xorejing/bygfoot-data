@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Nigeria</name>
+  <symbol>flag_nigeria.png</symbol>
+  <sid>nigeria</sid>
+  <rating>5</rating>
+
+  <leagues>
+    <league>nigeria1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

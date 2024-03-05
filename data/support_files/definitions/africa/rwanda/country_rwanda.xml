@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Rwanda</name>
+  <symbol>flag_rwanda.png</symbol>
+  <sid>rwanda</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>rwanda1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

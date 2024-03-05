@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Eswatini</name>
+  <symbol>flag_eswatini.png</symbol>
+  <sid>eswatini</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>eswatini1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

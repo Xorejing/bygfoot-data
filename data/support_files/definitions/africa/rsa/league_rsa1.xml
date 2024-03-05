@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>rsa1</sid>
+  <name>Premiership</name>
+  <short_name>PS</short_name>
+  <symbol>flag_rsa.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>6000</average_talent>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>Sundowns</team_name>
+    </team>
+    <team>
+      <team_name>Cape Town City</team_name>
+      <team_names_file>england</team_names_file>
+    </team>
+    <team>
+      <team_name>Supersport United</team_name>
+    </team>
+    <team>
+      <team_name>Orlando Pirates</team_name>
+    </team>
+    <team>
+      <team_name>Stellenbosch</team_name>
+    </team>
+    <team>
+      <team_name>Kaizer Chiefs</team_name>
+    </team>
+    <team>
+      <team_name>TS Galaxy</team_name>
+    </team>
+    <team>
+      <team_name>Sekhukhune United</team_name>
+    </team>
+    <team>
+      <team_name>Polokwane</team_name>
+    </team>
+    <team>
+      <team_name>Golden Arrows</team_name>
+    </team>
+    <team>
+      <team_name>AmaZulu</team_name>
+      <team_names_file>general</team_names_file>
+    </team>
+    <team>
+      <team_name>Royal AM</team_name>
+    </team>
+    <team>
+      <team_name>Chippa Utd</team_name>
+    </team>
+    <team>
+      <team_name>Moroka Swallows</team_name>
+    </team>
+    <team>
+      <team_name>Richards Bay FC</team_name>
+    </team>
+    <team>
+      <team_name>Cape Town Spurs</team_name>
+      <team_names_file>england</team_names_file>
+    </team>
+  </teams>
+
+</league>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Egypt</name>
+  <symbol>flag_egypt.png</symbol>
+  <sid>egypt</sid>
+  <rating>7</rating>
+
+  <leagues>
+    <league>egypt1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

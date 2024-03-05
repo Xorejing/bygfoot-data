@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>mali1</sid>
+  <name>Première Division</name>
+  <short_name>PD</short_name>
+  <symbol>flag_mali.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>5500</average_talent>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>Afrique Élite</team_name>
+    </team>
+    <team>
+      <team_name>AS Bakaridjan</team_name>
+    </team>
+    <team>
+      <team_name>AS Black Stars Bamako</team_name>
+    </team>
+    <team>
+      <team_name>AS Douanes Sikasso</team_name>
+    </team>
+    <team>
+      <team_name>AS Korofina</team_name>
+    </team>
+    <team>
+      <team_name>AS Olympique de Messira</team_name>
+    </team>
+    <team>
+      <team_name>AS Police Bamako</team_name>
+    </team>
+    <team>
+      <team_name>AS Real Bamako</team_name>
+    </team>
+    <team>
+      <team_name>CO Bamako</team_name>
+    </team>
+    <team>
+      <team_name>CS Duguwolofila Koulikoro</team_name>
+    </team>
+    <team>
+      <team_name>Djoliba AC Bamako</team_name>
+    </team>
+    <team>
+      <team_name>LC Bamako</team_name>
+    </team>
+    <team>
+      <team_name>Stade Malien</team_name>
+    </team>
+    <team>
+      <team_name>AS Onze Créateurs de Niaréla</team_name>
+    </team>
+    <team>
+      <team_name>US Bougouba</team_name>
+    </team>
+    <team>
+      <team_name>USC Kita</team_name>
+    </team>
+    <team>
+      <team_name>USFAS Bamako</team_name>
+    </team>
+    <team>
+      <team_name>Yeelen Olympique</team_name>
+    </team>
+  </teams>
+
+</league>
+
+  <!--Afrique Élite 	Bamako 	Stade Modibo Kéïta 	35,000-->
+  <!--AS Bakaridjan 	Ségou 	Stade Amari Daou 	30,000-->
+  <!--AS Black Stars 	Bamako 	Stade Modibo Kéïta 	35,000-->
+  <!--AS Douanes 	Sikasso 	Stade Babemba Traoré de Sikasso 	30,000-->
+  <!--AS Korofina 	Bamako 	Stade Modibo Kéïta 	35,000-->
+  <!--AS Olympique de Messira 	Bamako 	Stade du 26 Mars 	50,000-->
+  <!--AS Police 	Bamako 	Stade du 26 Mars 	50,000-->
+  <!--AS Real Bamako 	Bamako 	Stade Modibo Kéïta 	35,000-->
+  <!--CO Bamako 	Bamako 	Stade Modibo Kéïta 	35,000-->
+  <!--CS Duguwolofila 	Koulikoro 	Stade Mamadou Diarra H. de Koulikoro 	8,000-->
+  <!--Djoliba AC 	Bamako 	Stade du 26 Mars 	50,000-->
+  <!--LC Bamako 	Bamako 	Stade Modibo Kéïta 	35,000-->
+  <!--Stade Malien 	Bamako 	Stade du 26 Mars 	50,000-->
+  <!--AS Onze Créateurs de Niaréla 	Bamako 	Stade du 26 Mars 	50,000-->
+  <!--US Bougouba 	Bougouba 	Stade du 26 Mars 	50,000-->
+  <!--USC Kita 	Kita 	Stade du 26 Mars 	50,000-->
+  <!--USFAS Bamako 	Bamako 	Stade Municipal de USFAS 	5,000-->
+  <!--Yeelen Olympique 	Bamako 	Stade du 26 Mars 	50,000-->

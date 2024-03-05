@@ -10,7 +10,7 @@ Additional definition files for the [bygfoot](https://bygfoot.sourceforge.io/new
 ### Example country setups for this new configurations.
 
   * Germany: additional layer 5, additional amateur cup
-  * Kosovo: Kosovar-Cup, playable league, fixed sid.
+  * Kosovo: Kosovar-Cup, merged Will's version
   * Liechtenstein: playable Cup to qualify for UEFA CL
   * Switzerland: League setups have changed; layer 5 is unchanged, not enough information available
 
@@ -19,3 +19,9 @@ Additional definition files for the [bygfoot](https://bygfoot.sourceforge.io/new
   * a lot of teams don't like high (forward) pressing
   * how to crack a real defense?
   * _weak : nothing worse for a team than a bad mood on the sideline
+
+### Africa
+  
+  * country stubs , benin playable
+  * caf cup stubs
+

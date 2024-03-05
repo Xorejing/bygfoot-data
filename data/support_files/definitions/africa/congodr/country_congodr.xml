@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>DR Congo</name>
+  <symbol>flag_congodr.png</symbol>
+  <sid>congo-dr</sid>
+  <rating>6</rating>
+
+  <leagues>
+    <league>congodr1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

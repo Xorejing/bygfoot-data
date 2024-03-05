@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Sierra Leone</name>
+  <symbol>flag_sierra_leone.png</symbol>
+  <sid>sierra_leone</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>sierra_leone1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

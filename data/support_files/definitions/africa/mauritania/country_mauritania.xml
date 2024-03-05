@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Mauritania</name>
+  <symbol>flag_mauritania.png</symbol>
+  <sid>mauritania</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>mauritania1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

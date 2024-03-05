@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Benin</name>
+  <symbol>flag_benin.png</symbol>
+  <sid>benin</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>benin1a</league>
+    <league>benin1b</league>
+    <league>benin1c</league>
+    <league>benin1d</league>
+    <league>caf_teams</league>
+  </leagues>
+
+  <cups>
+    <cup>premier_league_promotion</cup>
+    <cup>premier_league_relegation</cup>
+
+    <cup>caf_champions_league</cup>
+  </cups>
+
+</country>

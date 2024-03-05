@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>benin1d</sid>
+  <name>Premier League Group D</name>
+  <short_name>PL D</short_name>
+  <symbol>flag_benin.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>5000</average_talent>
+  <first_week>5</first_week>
+  <yellow_red>5</yellow_red>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <!-- Group D -->
+    <team>
+      <team_name>AS Dragons FC de l'Ouémé</team_name>
+    </team>
+    <team>
+      <team_name>AS Sobemap Sport</team_name>
+    </team>
+    <team>
+      <team_name>ASVO FC Porto-Novo</team_name>
+    </team>
+    <team>
+      <team_name>ASOS Porto-Novo</team_name>
+    </team>
+    <team>
+      <team_name>Avrankou Omnisport FC</team_name>
+    </team>
+    <team>
+      <team_name>Ayema Sèmè-Kpodji</team_name>
+    </team>
+    <team>
+      <team_name>Djèffa FC</team_name>
+    </team>
+    <team>
+      <team_name>JA Cotonou</team_name>
+    </team>
+    <team>
+      <team_name>JS Pobè</team_name>
+    </team>
+  </teams>
+
+</league>

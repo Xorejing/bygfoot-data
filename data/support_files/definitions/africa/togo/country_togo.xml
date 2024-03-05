@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Togo</name>
+  <symbol>flag_togo.png</symbol>
+  <sid>togo</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>togo1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

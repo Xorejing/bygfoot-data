@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Niger</name>
+  <symbol>flag_niger.png</symbol>
+  <sid>niger</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>niger1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

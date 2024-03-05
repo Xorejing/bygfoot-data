@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>benin1c</sid>
+  <name>Premier League Group C</name>
+  <short_name>PL C</short_name>
+  <symbol>flag_benin.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>5000</average_talent>
+  <first_week>5</first_week>
+  <yellow_red>5</yellow_red>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <!-- Group C -->
+    <team>
+      <team_name>Ajijas Cotonou</team_name>
+    </team>
+    <team>
+      <team_name>AS Cotonou</team_name>
+    </team>
+    <team>
+      <team_name>AS Police FC</team_name>
+    </team>
+    <team>
+      <team_name>Coton FC de Ouidah</team_name>
+    </team>
+    <team>
+      <team_name>Eternel Cotonou</team_name>
+    </team>
+    <team>
+      <team_name>Requins de l'Atlantique FC</team_name>
+    </team>
+    <team>
+      <team_name>Sitatunga FC</team_name>
+    </team>
+    <team>
+      <team_name>UPI-ONM FC Cotonou</team_name>
+    </team>
+  </teams>
+
+</league>

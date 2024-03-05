@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>South Africa</name>
+  <symbol>flag_rsa.png</symbol>
+  <sid>rsa</sid>
+  <rating>5</rating>
+
+  <leagues>
+    <league>rsa1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>guinea1</sid>
+  <name>Ligue 1</name>
+  <short_name>L1</short_name>
+  <symbol>flag_guinea.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>6000</average_talent>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>CI Kamsar</team_name>
+    </team>
+    <team>
+      <team_name>Hafia</team_name>
+    </team>
+    <team>
+      <team_name>Sangarédi</team_name>
+    </team>
+    <team>
+      <team_name>Wakriya AC</team_name>
+    </team>
+    <team>
+      <team_name>SOAR</team_name>
+    </team>
+    <team>
+      <team_name>AS Kaloum</team_name>
+    </team>
+    <team>
+      <team_name>Gangan</team_name>
+    </team>
+    <team>
+      <team_name>Renaissance</team_name>
+    </team>
+    <team>
+      <team_name>Horoya</team_name>
+    </team>
+    <team>
+      <team_name>Ashanti GB</team_name>
+    </team>
+    <team>
+      <team_name>Flamme Olympique</team_name>
+    </team>
+    <team>
+      <team_name>Séquence</team_name>
+    </team>
+    <team>
+      <team_name>Milo</team_name>
+    </team>
+    <team>
+      <team_name>Loubha</team_name>
+    </team>
+  </teams>
+
+</league>

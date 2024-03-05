@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Burkina Faso</name>
+  <symbol>flag_burkina_faso.png</symbol>
+  <sid>burkina_faso</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>burkina_faso1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

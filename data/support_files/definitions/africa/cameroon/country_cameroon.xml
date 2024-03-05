@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Cameroon</name>
+  <symbol>flag_cameroon.png</symbol>
+  <sid>cameroon</sid>
+  <rating>5</rating>
+
+  <leagues>
+    <league>cameroon1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>
