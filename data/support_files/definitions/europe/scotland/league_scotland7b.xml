@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>scotland7b</sid>
+  <name>Amateur Leagues</name>
+  <short_name>SAFA</short_name>
+  <symbol>flag_scotland.png</symbol>
+  <average_talent>3500</average_talent>
+  <names_file>scotland</names_file>
+  <layer>7</layer>
+
+  <first_week>6</first_week>
+  <last_week>42</last_week>
+  <week_gap>1</week_gap>
+  <break_in length="1">7</break_in>
+  <break_in length="1">11</break_in>
+  <break_in length="1">15</break_in>
+  <break_in length="1">19</break_in>
+  <break_in length="1">24</break_in>
+  <break_in length="1">29</break_in>
+  <break_in length="1">35</break_in>
+
+  <prom_rel>
+    <prom_games>
+      <prom_games_dest_sid>scotland6b</prom_games_dest_sid>
+      <prom_games_loser_sid>scotland7b</prom_games_loser_sid>
+      <prom_games_cup_sid>scotland_prom_games7b</prom_games_cup_sid>
+    </prom_games>
+  </prom_rel>
+
+  <teams><!--16 -->
+    <team>
+      <team_name>Cove Thistle</team_name>
+    </team>
+    <team>
+      <team_name>Cumnock AFC</team_name>
+    </team>
+    <team>
+      <team_name>Chirnside United</team_name>
+    </team>
+    <team>
+      <team_name>Dumbarton Academy</team_name>
+    </team>
+    <team>
+      <team_name>Colville Park</team_name>
+    </team>
+    <team>
+      <team_name>Leven United</team_name>
+    </team>
+    <team>
+      <team_name>St Bernard's</team_name>
+    </team>
+    <team>
+      <team_name>Letham</team_name>
+    </team>
+    <team>
+      <team_name>Inverclyde</team_name>
+    </team>
+    <team>
+      <team_name>Bonnybridge YFP</team_name>
+    </team>
+    <team>
+      <team_name>Kilbride Thistle</team_name>
+    </team>
+    <team>
+      <team_name>Steins Thistle</team_name>
+    </team>
+    <team>
+      <team_name>Kennoway</team_name>
+    </team>
+    <team>
+      <team_name>Tollcross Thistle</team_name>
+    </team>
+    <team>
+      <team_name>Auchterarder Primrose</team_name>
+    </team>
+    <team>
+      <team_name>Barrhill</team_name>
+    </team>
+  </teams>
+</league>

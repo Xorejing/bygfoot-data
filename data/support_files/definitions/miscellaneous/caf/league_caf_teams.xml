@@ -3,6 +3,7 @@
   <sid>caf_teams</sid>
   <name>CAF Teams</name>
   <short_name>CAFT</short_name>
+  <symbol>flag_africa.png</symbol>
   <average_talent>7700</average_talent>
   <property>inactive</property>
   <layer>1</layer>
@@ -192,61 +193,61 @@
       <!-- Burundi -->
       <team_name>Musongati FC</team_name>
       <team_average_talent>7000</team_average_talent>
-      <team_symbol></team_symbol>
+      <team_symbol>flag_burundi.png</team_symbol>
     </team>
     <team>
       <!-- Ethiopia -->
       <team_name>Mekelakeya</team_name>
       <team_average_talent>7000</team_average_talent>
-      <team_symbol></team_symbol>
+      <team_symbol>flag_ethiopia.png</team_symbol>
     </team>
     <team>
       <!-- Tanzania -->
       <team_name>Dodoma Jiji FC</team_name>
       <team_average_talent>7000</team_average_talent>
-      <team_symbol></team_symbol>
+      <team_symbol>flag_tanzania.png</team_symbol>
     </team>
     <team>
       <!-- Gambia -->
       <team_name>Real De Banjul</team_name>
       <team_average_talent>7000</team_average_talent>
-      <team_symbol></team_symbol>
+      <team_symbol>flag_gambia.png</team_symbol>
     </team>
     <team>
       <!-- Namibia -->
       <team_name>Khomas Nampol</team_name>
       <team_average_talent>7000</team_average_talent>
-      <team_symbol></team_symbol>
+      <team_symbol>flag_namibia.png</team_symbol>
     </team>
     <team>
       <!-- Mozambique -->
       <team_name>Beira</team_name>
       <team_average_talent>7000</team_average_talent>
-      <team_symbol></team_symbol>
+      <team_symbol>flag_mozambique.png</team_symbol>
     </team>
     <team>
       <!-- Sierra Leone -->
       <team_name>Kallon</team_name>
       <team_average_talent>7000</team_average_talent>
-      <team_symbol></team_symbol>
+      <team_symbol>flag_sierra_leone.png</team_symbol>
     </team>
     <team>
       <!-- Niger -->
       <team_name>ASN Nigelec FC</team_name>
       <team_average_talent>7000</team_average_talent>
-      <team_symbol></team_symbol>
+      <team_symbol>flag_niger.png</team_symbol>
     </team>
     <team>
       <!-- Eswatini (Swaziland) -->
       <team_name>Mbabane Highlanders</team_name>
       <team_average_talent>7000</team_average_talent>
-      <team_symbol></team_symbol>
+      <team_symbol>flag_eswatini.png</team_symbol>
     </team>
     <team>
       <!-- Mauritania -->
       <team_name>ACS Ksar</team_name>
       <team_average_talent>7000</team_average_talent>
-      <team_symbol></team_symbol>
+      <team_symbol>flag_mauritania.png</team_symbol>
     </team>
   </teams>
 </league>

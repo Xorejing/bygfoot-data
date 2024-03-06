@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>scotland6</sid>
+  <name>Junior League</name>
+  <short_name>SJFA</short_name>
+  <symbol>flag_scotland.png</symbol>
+  <average_talent>4000</average_talent>
+  <names_file>scotland</names_file>
+  <layer>6</layer>
+  <property>inactive</property>
+
+  <first_week>6</first_week>
+  <week_gap>1</week_gap>
+  <break_in length="1">7</break_in>
+  <break_in length="1">11</break_in>
+  <break_in length="1">15</break_in>
+  <break_in length="1">19</break_in>
+
+  <two_match_week_start>3</two_match_week_start>
+  <two_match_week_end>4</two_match_week_end>
+  <two_match_week_start>6</two_match_week_start>
+  <two_match_week_end>7</two_match_week_end>
+  <two_match_week_start>10</two_match_week_start>
+  <two_match_week_end>11</two_match_week_end>
+  <two_match_week_start>14</two_match_week_start>
+  <two_match_week_end>15</two_match_week_end>
+  <two_match_week_start>18</two_match_week_start>
+  <two_match_week_end>19</two_match_week_end>
+  <two_match_week_start>22</two_match_week_start>
+  <two_match_week_end>23</two_match_week_end>
+  <two_match_week_start>25</two_match_week_start>
+  <two_match_week_end>26</two_match_week_end>
+  <two_match_week_start>28</two_match_week_start>
+  <two_match_week_end>29</two_match_week_end>
+  <two_match_week_start>32</two_match_week_start>
+  <two_match_week_end>33</two_match_week_end>
+  <two_match_week_start>35</two_match_week_start>
+  <two_match_week_end>36</two_match_week_end>
+  <two_match_week_start>38</two_match_week_start>
+  <two_match_week_end>39</two_match_week_end>
+  <two_match_week_start>41</two_match_week_start>
+  <two_match_week_end>42</two_match_week_end>
+  <two_match_week_start>44</two_match_week_start>
+  <two_match_week_end>45</two_match_week_end>
+
+  <prom_rel>
+    <prom_games>
+      <prom_games_dest_sid>scotland6</prom_games_dest_sid>
+      <prom_games_loser_sid>scotland6</prom_games_loser_sid>
+      <prom_games_cup_sid>scotland_prom_games6</prom_games_cup_sid>
+    </prom_games>
+    <prom_games>
+      <prom_games_dest_sid>scotland7a</prom_games_dest_sid>
+      <prom_games_loser_sid>scotland7b</prom_games_loser_sid>
+      <prom_games_cup_sid>scotland_prom_games6y</prom_games_cup_sid>
+    </prom_games>
+    <prom_games>
+      <prom_games_dest_sid>scotland7b</prom_games_dest_sid>
+      <prom_games_loser_sid>scotland7a</prom_games_loser_sid>
+      <prom_games_cup_sid>scotland_prom_games6z</prom_games_cup_sid>
+    </prom_games>
+  </prom_rel>
+
+  <teams><!-- 24 -->
+    <team>
+      <team_name>Auchinleck Talbot</team_name>
+    </team>
+    <team>
+      <team_name>Banks O’Dee</team_name>
+    </team>
+    <team>
+      <team_name>Blackburn United</team_name>
+    </team>
+    <team>
+      <team_name>Broxburn Athletic</team_name>
+    </team>
+    <team>
+      <team_name>Burntisland Shipyard</team_name>
+    </team>
+    <team>
+      <team_name>Camelon Juniors</team_name>
+    </team>
+    <team>
+      <team_name>Coldstream</team_name>
+    </team>
+    <team>
+      <team_name>Dundonald Bluebell</team_name>
+    </team>
+    <team>
+      <team_name>Easthouses Lily Miners Welfare</team_name>
+    </team>
+    <team>
+      <team_name>Girvan</team_name>
+    </team>
+    <team>
+      <team_name>Glasgow University</team_name>
+    </team>
+    <team>
+      <team_name>Golspie Sutherland</team_name>
+    </team>
+    <team>
+      <team_name>Hawick Royal Albert United</team_name>
+    </team>
+    <team>
+      <team_name>Hill of Beath Hawthorn</team_name>
+    </team>
+    <team>
+      <team_name>Jeanfield Swifts</team_name>
+    </team>
+    <team>
+      <team_name>Linlithgow Rose</team_name>
+    </team>
+    <team>
+      <team_name>Lothian Thistle Hutchison Vale</team_name>
+    </team>
+    <team>
+      <team_name>Newton Stewart</team_name>
+    </team>
+    <team>
+      <team_name>Penicuik Athletic</team_name>
+    </team>
+    <team>
+      <team_name>Preston Athletic</team_name>
+    </team>
+    <team>
+      <team_name>St Cuthbert Wanderers</team_name>
+    </team>
+    <team>
+      <team_name>Threave Rovers</team_name>
+    </team>
+    <team>
+      <team_name>Tynecastle</team_name>
+    </team>
+    <team>
+      <team_name>Whitehill Welfare</team_name>
+    </team>
+  </teams>
+</league>

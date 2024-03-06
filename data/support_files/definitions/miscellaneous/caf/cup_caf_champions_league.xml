@@ -2,7 +2,7 @@
 <cup>
   <name>CAF Champions League</name>
   <short_name>CAF CL</short_name>
-  <symbol>flag_eu.png</symbol>
+  <symbol>flag_africa.png</symbol>
   <sid>caf_champions_league</sid>
   <add_week>0</add_week>
   <last_week>48</last_week>
@@ -14,6 +14,14 @@
   <property>international</property>
   <property>league_talents</property>
   <property>highlight1</property>
+
+  <!-- The CAF Champions League operates primarily as a knockout competition, with trim-down qualification rounds,
+  a group stage, a two-legged knockout stage and a one-off final. At the start of the competition, the 64 qualified teams
+  enter 2 qualification rounds: the preliminary stage and the first round. After the first qualifying round,
+  the remaining teams are split into four groups of 4, whereas the teams each first-round winner vanquished transfer
+  to the second qualification round of the Confederation Cup for hopes of group stage progression.
+  The winners and runners-up of each group progress to the two-legged knockout stage for hopes of progression to a
+  one-off final for a chance to lift the trophy for their member association.  -->
 
   <cup_rounds>
     <cup_round>

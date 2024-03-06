@@ -3,6 +3,7 @@
   <sid>caf</sid>
   <name>CAF</name>
   <short_name>CAF</short_name>
+  <symbol>flag_africa.png</symbol>
   <average_talent>7000</average_talent>
   <property>inactive</property>
   <layer>1</layer>
