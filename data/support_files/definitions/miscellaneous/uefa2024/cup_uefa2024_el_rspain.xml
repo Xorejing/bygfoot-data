@@ -279,74 +279,38 @@
       <home_away>0</home_away>
       <choose_teams>
         <choose_team>
-          <choose_team_sid>portugal1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>netherlands1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>france1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>italy1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>germany1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>spain_cdr</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <start_idx>1</start_idx>
-          <end_idx>7</end_idx>
-        </choose_team>
-        <choose_team>
           <choose_team_sid>england1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>portugal1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>netherlands1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
+          <number_of_teams>2</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
         </choose_team>
         <choose_team>
           <choose_team_sid>france1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>italy1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
+          <number_of_teams>2</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
         </choose_team>
         <choose_team>
           <choose_team_sid>germany1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
+          <number_of_teams>2</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>italy1</choose_team_sid>
+          <number_of_teams>2</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>netherlands1</choose_team_sid>
+          <number_of_teams>2</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>portugal1</choose_team_sid>
+          <number_of_teams>2</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
         </choose_team>
@@ -355,21 +319,6 @@
           <number_of_teams>1</number_of_teams>
           <start_idx>5</start_idx>
           <end_idx>7</end_idx>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>england1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>uefa2024_cl_r*</choose_team_sid>
-          <number_of_teams>7</number_of_teams>
-          <start_idx>8</start_idx>
-          <end_idx>14</end_idx>
-          <skip_group_check>1</skip_group_check>
-          <preload>0</preload>
-          <wait_for_cup round="4">uefa2024_cl_r*</wait_for_cup>
         </choose_team>
         <choose_team>
           <choose_team_sid>spain1 england1 italy1 germany1 france1 russia1
@@ -387,6 +336,21 @@
           <randomly>1</randomly>
           <generate>1</generate>
           <preload>0</preload>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>spain_cdr</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>7</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>uefa2024_cl_r*</choose_team_sid>
+          <number_of_teams>7</number_of_teams>
+          <start_idx>8</start_idx>
+          <end_idx>14</end_idx>
+          <skip_group_check>1</skip_group_check>
+          <preload>0</preload>
+          <wait_for_cup round="4">uefa2024_cl_r*</wait_for_cup>
         </choose_team>
       </choose_teams>
       <number_of_groups>4</number_of_groups>

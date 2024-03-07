@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>car1</sid>
+  <name>Premiership</name>
+  <short_name>PS</short_name>
+  <symbol>flag_car.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>5000</average_talent>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>AS Tempête Mocaf</team_name>
+    </team>
+    <team>
+      <team_name>Olympic Real</team_name>
+    </team>
+    <team>
+      <team_name>Red Star Bangui</team_name>
+    </team>
+    <team>
+      <team_name>SCAF Bangui</team_name>
+    </team>
+    <team>
+      <team_name>Anges de Fatima</team_name>
+    </team>
+    <team>
+      <team_name>Castel Foot</team_name>
+    </team>
+    <team>
+      <team_name>DFC 8ème Arrondissement</team_name>
+    </team>
+    <team>
+      <team_name>AS Gbangré</team_name>
+    </team>
+    <team>
+      <team_name>ASOPT</team_name>
+    </team>
+    <team>
+      <team_name>USCA</team_name>
+    </team>
+    <team>
+      <team_name>ECB</team_name>
+    </team>
+    <team>
+      <team_name>UFC Bangui</team_name>
+    </team>
+  </teams>
+
+</league>

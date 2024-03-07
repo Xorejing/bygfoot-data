@@ -394,158 +394,14 @@
           <generate>1</generate>
         </choose_team>
         <choose_team>
-          <choose_team_sid>scotland1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
           <choose_team_sid>belgium1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
         </choose_team>
         <choose_team>
-          <choose_team_sid>portugal1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>netherlands1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>france1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <start_idx>1</start_idx>
-          <end_idx>3</end_idx>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>italy1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>germany1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>spain1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
           <choose_team_sid>england1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>netherlands1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>france1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <start_idx>2</start_idx>
-          <end_idx>4</end_idx>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>italy1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>germany1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>spain1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>england1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>france1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <start_idx>3</start_idx>
-          <end_idx>5</end_idx>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>italy1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>germany1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>spain1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>england1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>italy1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>germany1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>spain1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>england1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>spain1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
-          <randomly>1</randomly>
-          <generate>1</generate>
-        </choose_team>
-        <choose_team>
-          <choose_team_sid>england1</choose_team_sid>
-          <number_of_teams>1</number_of_teams>
+          <number_of_teams>5</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
         </choose_team>
@@ -565,6 +421,48 @@
           <randomly>1</randomly>
           <generate>1</generate>
           <preload>0</preload>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>france1</choose_team_sid>
+          <number_of_teams>3</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>5</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>germany1</choose_team_sid>
+          <number_of_teams>4</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>italy1</choose_team_sid>
+          <number_of_teams>4</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>netherlands1</choose_team_sid>
+          <number_of_teams>2</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>portugal1</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>scotland1</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>spain1</choose_team_sid>
+          <number_of_teams>5</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
         </choose_team>
         <choose_team>
           <choose_team_sid>spain1 england1 italy1 germany1 france1 russia1

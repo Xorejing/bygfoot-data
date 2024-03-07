@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>South Sudan</name>
+  <symbol>flag_ss.png</symbol>
+  <sid>ss</sid>
+  <rating>2</rating>
+
+  <leagues>
+    <league>ss1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>
+

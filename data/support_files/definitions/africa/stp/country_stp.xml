@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>São Tomé and Príncipe</name>
+  <symbol>flag_stp.png</symbol>
+  <sid>stp</sid>
+  <rating>2</rating>
+
+  <leagues>
+    <league>stp1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>

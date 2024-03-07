@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>stp1</sid>
+  <name>Premiership</name>
+  <short_name>PS</short_name>
+  <symbol>flag_stp.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>5000</average_talent>
+  <property>national</property>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>Agrosport Monte Café</team_name>
+    </team>
+    <team>
+      <team_name>Aliança Nacional Água Izé</team_name>
+    </team>
+    <team>
+      <team_name>Caixão Grande</team_name>
+    </team>
+    <team>
+      <team_name>Guadalupe</team_name>
+    </team>
+    <team>
+      <team_name>Militar 6 Setembro São Tomé</team_name>
+    </team>
+    <team>
+      <team_name>Palmar Lusitano Água Porca</team_name>
+    </team>
+    <team>
+      <team_name>Sporting Praia Cruz</team_name>
+    </team>
+    <team>
+      <team_name>Sporting São Tomé</team_name>
+    </team>
+    <team>
+      <team_name>Trindade</team_name>
+    </team>
+    <team>
+      <team_name>UD Correia</team_name>
+    </team>
+    <team>
+      <team_name>UDRA Ribeira Peixe</team_name>
+    </team>
+    <team>
+      <team_name>Vitória Riboque</team_name>
+    </team>
+
+  </teams>
+
+</league>

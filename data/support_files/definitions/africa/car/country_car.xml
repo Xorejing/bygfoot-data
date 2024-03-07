@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Central African Republic</name>
+  <symbol>flag_car.png</symbol>
+  <sid>car</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>car1</league>
+  </leagues>
+
+  <cups>
+  </cups>
+
+</country>
+
