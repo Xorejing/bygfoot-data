@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>zimbabwe2b</sid>
+  <name>Division One Eastern Region</name>
+  <short_name>One Eastern</short_name>
+  <symbol>flag_zimbabwe.png</symbol>
+  <names_file>general</names_file>
+  <average_talent>4900</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>2</layer>
+
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>1</rank_start>
+      <rank_end>1</rank_end>
+      <dest_sid>zimbabwe1</dest_sid>
+      <prom_rel_type>promotion</prom_rel_type>
+    </prom_rel_element>
+
+    <prom_rel_element>
+      <rank_start>16</rank_start>
+      <rank_end>16</rank_end>
+      <dest_sid>zimbabwe3a zimbabwe3b zimbabwe3c zimbabwe3d</dest_sid>
+      <prom_rel_type>relegation</prom_rel_type>
+    </prom_rel_element>
+  </prom_rel>
+
+  <teams>
+    <team>
+      <team_name>Zimanzi Masvingo</team_name>
+    </team>
+    <team>
+      <team_name>Hippo Valley</team_name>
+    </team>
+    <team>
+      <team_name>Bon Bosco</team_name>
+    </team>
+    <team>
+      <team_name>Buffaloes</team_name>
+    </team>
+    <team>
+      <team_name>AMC Highway</team_name>
+    </team>
+    <team>
+      <team_name>Mutare United</team_name>
+    </team>
+    <team>
+      <team_name>Triangle</team_name>
+    </team>
+    <team>
+      <team_name>United Lions</team_name>
+    </team>
+    <team>
+      <team_name>Surrey</team_name>
+    </team>
+    <team>
+      <team_name>Mwenezana</team_name>
+    </team>
+    <team>
+      <team_name>Gaza Gunners</team_name>
+    </team>
+    <team>
+      <team_name>Chiredzi United</team_name>
+    </team>
+    <team>
+      <team_name>Lighter Power</team_name>
+    </team>
+    <team>
+      <team_name>Renco Mine</team_name>
+    </team>
+    <team>
+      <team_name>Mutomba</team_name>
+    </team>
+    <team>
+      <team_name>Nzumba Bar</team_name>
+    </team>
+  </teams>
+
+</league>

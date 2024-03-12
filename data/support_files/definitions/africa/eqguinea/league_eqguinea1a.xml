@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>eqguinea1a</sid>
+  <name>Liga Nacional de Fútbol Insular</name>
+  <short_name>LNFI</short_name>
+  <symbol>flag_eqguinea.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>4500</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>1</layer>
+
+  <teams>
+    <!--   Insular -->
+    <team>
+      <team_name>Atlético Semu</team_name>
+    </team>
+    <team>
+      <team_name>Ceiba FC</team_name>
+    </team>
+    <team>
+      <team_name>Cano Sport</team_name>
+    </team>
+    <team>
+      <team_name>Deportivo Unidad</team_name>
+    </team>
+    <team>
+      <team_name>Estrella Roja</team_name>
+    </team>
+    <team>
+      <team_name>Leones Vegetarianos</team_name>
+    </team>
+    <team>
+      <team_name>Real X Balompié</team_name>
+    </team>
+    <team>
+      <team_name>Recreativo Lampert</team_name>
+    </team>
+    <team>
+      <team_name>San Pablo de Nsork</team_name>
+    </team>
+    <team>
+      <team_name>Santa María</team_name>
+    </team>
+    <team>
+      <team_name>Sony Elá Nguema</team_name>
+    </team>
+    <team>
+      <team_name>The Panthers</team_name>
+    </team>
+  </teams>
+
+</league>

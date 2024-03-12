@@ -6,7 +6,9 @@
   <symbol>flag_namibia.png</symbol>
   <names_file>general</names_file><!-- TODO -->
   <average_talent>7000</average_talent>
-  <property>national</property>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
   <layer>1</layer>
 
   <teams>

@@ -7,9 +7,17 @@
 
   <leagues>
     <league>egypt1</league>
+    <league>egypt2a</league>
+    <league>egypt2b</league>
+    <league>egypt2c</league>
   </leagues>
 
   <cups>
+    <cup>egypt_cup</cup>
+    <cup>caf_cl_egypt</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
   </cups>
 
 </country>

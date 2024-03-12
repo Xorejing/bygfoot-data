@@ -3,13 +3,21 @@
   <name>Cameroon</name>
   <symbol>flag_cameroon.png</symbol>
   <sid>cameroon</sid>
-  <rating>5</rating>
+  <rating>7</rating>
 
   <leagues>
     <league>cameroon1</league>
+    <league>cameroon2a</league>
+    <league>cameroon2b</league>
   </leagues>
 
   <cups>
+    <cup>cameroon_cup</cup>
+    <cup>cameroon_supercup</cup>
+    <cup>caf_cl_cameroon</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
   </cups>
 
 </country>

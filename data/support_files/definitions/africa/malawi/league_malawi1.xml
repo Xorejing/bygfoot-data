@@ -6,7 +6,9 @@
   <symbol>flag_malawi.png</symbol>
   <names_file>general</names_file><!-- TODO -->
   <average_talent>7000</average_talent>
-  <property>national</property>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
   <layer>1</layer>
 
   <!-- There are 16 clubs in the Super League. During the course of a season (from April to December) each club plays
@@ -70,20 +72,3 @@ and Northern Region Football League) promoted to the Super League.
   </teams>
 
 </league>
-
-  <!--  Bangwe All Stars 	Blantyre 	Mpira Stadium 	6,244-->
-  <!--  Blue Eagles 	Lilongwe 	Nankhaka Stadium 	5,000-->
-  <!--  Chitipa United 	Karonga 	Karonga Stadium 	20,000-->
-  <!--  Civil Service United 	Lilongwe 	Civo Stadium 	25,000-->
-  <!--  Dedza Dynamos 	Dedza 	Dedza Stadium 	6,000-->
-  <!--  Ekwendeni Hammers 	Mzuzu 	Mzuzu Stadium 	15,000-->
-  <!--  Extreme 	Lilongwe 	Civo Stadium 	25,000-->
-  <!--  Kamuzu Barracks 	Lilongwe 	Civo Stadium 	25,000-->
-  <!--  Karonga United 	Karonga 	Karonga Stadium 	20,000-->
-  <!--  MAFCO 	Nkhotakota 	Chitowe Stadium 	1,000-->
-  <!--  Mighty Tigers 	Nchalo 	Kalulu Stadium 	3,000-->
-  <!--  Mighty Wanderers 	Blantyre 	Kamuzu Stadium 	65,000-->
-  <!--  Moyale Barracks 	Mzuzu 	Mzuzu Stadium 	15,000-->
-  <!--  Nyasa Big Bullets 	Blantyre 	Kamuzu Stadium 	65,000-->
-  <!--  Red Lions 	Balaka 	Balaka Stadium 	3,000-->
-  <!--  Silver Strikers 	Lilongwe 	Bingu National Stadium 	41,100-->

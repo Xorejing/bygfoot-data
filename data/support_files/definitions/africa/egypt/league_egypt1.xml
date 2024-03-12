@@ -4,20 +4,34 @@
   <name>Premier League</name>
   <short_name>PL</short_name>
   <symbol>flag_egypt.png</symbol>
-  <names_file>general</names_file><!-- TODO -->
+  <names_file>arabic</names_file>
   <average_talent>7000</average_talent>
-  <property>national</property>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
   <layer>1</layer>
 
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>16</rank_start>
+      <rank_end>18</rank_end>
+      <dest_sid>egypt2a egypt2b egypt2c</dest_sid>
+      <prom_rel_type>relegation</prom_rel_type>
+    </prom_rel_element>
+  </prom_rel>
+
   <teams>
+    <team>
+      <team_name>Al Ahly</team_name>
+    </team>
     <team>
       <team_name>ENPPI</team_name>
     </team>
     <team>
-      <team_name>Al-Ittihad</team_name>
+      <team_name>Al Ittihad</team_name>
     </team>
     <team>
-      <team_name>Al-Masry</team_name>
+      <team_name>Al Masry</team_name>
     </team>
     <team>
       <team_name>Ceramica Cleopatra</team_name>
@@ -29,25 +43,22 @@
       <team_name>Pyramids</team_name>
     </team>
     <team>
-      <team_name>El-Gaish</team_name>
+      <team_name>Al Jaish</team_name>
     </team>
     <team>
       <team_name>Smouha</team_name>
     </team>
     <team>
-      <team_name>Al Ahly</team_name>
+      <team_name>Al Gouna</team_name>
     </team>
     <team>
-      <team_name>El Gouna</team_name>
-    </team>
-    <team>
-      <team_name>Baladiyet El Mahallah</team_name>
+      <team_name>Haras al Hodoud</team_name>
     </team>
     <team>
       <team_name>Zamalek</team_name>
     </team>
     <team>
-      <team_name>Future</team_name>
+      <team_name>Assyut Petrol</team_name>
     </team>
     <team>
       <team_name>Ismaily</team_name>
@@ -59,10 +70,10 @@
       <team_name>Pharco</team_name>
     </team>
     <team>
-      <team_name>Al-Mokawloon</team_name>
+      <team_name>Mokawloon al Arab</team_name>
     </team>
     <team>
-      <team_name>El Dakhlya</team_name>
+      <team_name>Ghazl al Mehalla</team_name>
     </team>
   </teams>
 

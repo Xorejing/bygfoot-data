@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>ghana2c</sid>
+  <name>Division One League 3</name>
+  <short_name>Zone 3</short_name>
+  <symbol>flag_ghana.png</symbol>
+  <names_file>general</names_file>
+  <average_talent>6300</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>2</layer>
+
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>1</rank_start>
+      <rank_end>1</rank_end>
+      <dest_sid>ghana1</dest_sid>
+      <prom_rel_type>promotion</prom_rel_type>
+    </prom_rel_element>
+  </prom_rel>
+
+  <teams>
+    <team>
+      <team_name>Accra Lions FC</team_name>
+    </team>
+    <team>
+      <team_name>Accra City Stars</team_name>
+    </team>
+    <team>
+      <team_name>Agbozume Weavers</team_name>
+    </team>
+    <team>
+      <team_name>Akosombo Krystal Palace</team_name>
+    </team>
+    <team>
+      <team_name>Amidaus Professionals</team_name>
+    </team>
+    <team>
+      <team_name>Danbort FC</team_name>
+    </team>
+    <team>
+      <team_name>Heart of Lions FC</team_name>
+    </team>
+    <team>
+      <team_name>Kotoku Royals FC</team_name>
+    </team>
+    <team>
+      <team_name>Nania FC</team_name>
+    </team>
+    <team>
+      <team_name>Okyeman Planners</team_name>
+    </team>
+    <team>
+      <team_name>Phar Rangers</team_name>
+    </team>
+    <team>
+      <team_name>Tema Youth FC</team_name>
+    </team>
+    <team>
+      <team_name>Tudu Mights Jets</team_name>
+    </team>
+    <team>
+      <team_name>Uncle 'T' FC</team_name>
+    </team>
+    <team>
+      <team_name>Vision FC</team_name>
+    </team>
+    <team>
+      <team_name>Secondi Wise FC</team_name>
+    </team>
+
+  </teams>
+
+</league>

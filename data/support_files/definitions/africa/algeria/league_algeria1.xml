@@ -1,62 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <league>
   <sid>algeria1</sid>
-  <name>Ligue 1</name>
-  <short_name>L1</short_name>
+  <name>Algerian Ligue Professionnelle 1</name>
+  <short_name>Ligue 1</short_name>
   <symbol>flag_algeria.png</symbol>
   <names_file>general</names_file><!-- TODO -->
   <average_talent>7000</average_talent>
-  <property>national</property>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
   <layer>1</layer>
 
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>14</rank_start>
+      <rank_end>16</rank_end>
+      <dest_sid>algeria2</dest_sid>
+      <prom_rel_type>relegation</prom_rel_type>
+    </prom_rel_element>
+  </prom_rel>
+
   <teams>
+    <team>
+      <team_name>CR Belouizdad</team_name>
+    </team>
     <team>
       <team_name>MC Alger</team_name>
     </team>
     <team>
-      <team_name>Paradou</team_name>
-    </team>
-    <team>
-      <team_name>Belouizdad</team_name>
-    </team>
-    <team>
-      <team_name>Constantine</team_name>
-    </team>
-    <team>
-      <team_name>ES Sétif</team_name>
-    </team>
-    <team>
-      <team_name>USM Khenchela</team_name>
-    </team>
-    <team>
-      <team_name>Kabylie</team_name>
+      <team_name>NA Hussein-Dey</team_name>
     </team>
     <team>
       <team_name>USM Alger</team_name>
     </team>
     <team>
-      <team_name>El Bayadh</team_name>
+      <team_name>ES Sétif</team_name>
     </team>
     <team>
-      <team_name>Biskra</team_name>
+      <team_name>MC Oran</team_name>
     </team>
     <team>
-      <team_name>Saoura</team_name>
+      <team_name>JS Kabylie</team_name>
     </team>
     <team>
-      <team_name>Chlef</team_name>
+      <team_name>MC Saïda</team_name>
     </team>
     <team>
-      <team_name>Magra</team_name>
+      <team_name>USM El Harrach</team_name>
     </team>
     <team>
-      <team_name>Oran</team_name>
+      <team_name>MC El Eulma</team_name>
     </team>
     <team>
-      <team_name>Aknoun</team_name>
+      <team_name>ASO Chlef</team_name>
     </team>
     <team>
-      <team_name>US Souf</team_name>
+      <team_name>CS Constantine</team_name>
+    </team>
+    <team>
+      <team_name>CA Batna</team_name>
+    </team>
+    <team>
+      <team_name>JSM Béjaïa</team_name>
+    </team>
+    <team>
+      <team_name>WA Tlemcen</team_name>
+    </team>
+    <team>
+      <team_name>AS Khroub</team_name>
     </team>
   </teams>
 

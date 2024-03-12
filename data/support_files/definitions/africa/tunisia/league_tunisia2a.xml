@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>tunisia2a</sid>
+  <name>Ligue Professionnelle 2</name>
+  <short_name>LP 2</short_name>
+  <symbol>flag_tunisia.png</symbol>
+  <names_file>general</names_file>
+  <average_talent>6300</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>2</layer>
+
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>1</rank_start>
+      <rank_end>2</rank_end>
+      <dest_sid>tunisia1</dest_sid>
+      <prom_rel_type>promotion</prom_rel_type>
+    </prom_rel_element>
+
+    <prom_rel_element>
+      <rank_start>13</rank_start>
+      <rank_end>14</rank_end>
+      <dest_sid>tunisia3a</dest_sid>
+      <prom_rel_type>relegation</prom_rel_type>
+    </prom_rel_element>
+  </prom_rel>
+
+  <teams>
+    <team>
+      <team_name>Jendouba Sport</team_name>
+    </team>
+    <team>
+      <team_name>Jeunesse Sportive Omrane</team_name>
+    </team>
+    <team>
+      <team_name>CS Hammam-Lif</team_name>
+    </team>
+    <team>
+      <team_name>Club Sportif de Korba</team_name>
+    </team>
+    <team>
+      <team_name>JS Kairouanaise</team_name>
+    </team>
+    <team>
+      <team_name>ES Hammam-Sousse</team_name>
+    </team>
+    <team>
+      <team_name>AS d'Ariana</team_name>
+    </team>
+    <team>
+      <team_name>ES Radès</team_name>
+    </team>
+    <team>
+      <team_name>CS Tabarka</team_name>
+    </team>
+    <team>
+      <team_name>CS de M'saken</team_name>
+    </team>
+    <team>
+      <team_name>Avenir Sportif d'Oued</team_name>
+    </team>
+    <team>
+      <team_name>Kalaâ Sport</team_name>
+    </team>
+    <team>
+      <team_name>Sporting Club Ben Arous</team_name>
+    </team>
+    <team>
+      <team_name>Tozuer</team_name>
+    </team>
+  </teams>
+
+</league>

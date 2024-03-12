@@ -3,13 +3,22 @@
   <name>Nigeria</name>
   <symbol>flag_nigeria.png</symbol>
   <sid>nigeria</sid>
-  <rating>5</rating>
+  <rating>7</rating>
 
   <leagues>
     <league>nigeria1</league>
+    <league>nigeria2a</league>
+    <league>nigeria2b</league>
+    <league>nigeria2c</league>
+    <league>nigeria2d</league>
+    <league>nigeria3</league>
   </leagues>
 
   <cups>
-  </cups>
+    <cup>nigeria_cup</cup>
+    <cup>caf_cl_nigeria</cup>
 
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
 </country>

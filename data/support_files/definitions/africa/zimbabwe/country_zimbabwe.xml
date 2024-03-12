@@ -7,9 +7,21 @@
 
   <leagues>
     <league>zimbabwe1</league>
+    <league>zimbabwe2a</league>
+    <league>zimbabwe2b</league>
+    <league>zimbabwe2c</league>
+    <league>zimbabwe2d</league>
+    <league>zimbabwe3a</league>
+    <league>zimbabwe3b</league>
+    <league>zimbabwe3c</league>
+    <league>zimbabwe3d</league>
   </leagues>
 
   <cups>
-  </cups>
+    <cup>zimbabwe_cup</cup>
+    <cup>caf_cl_zimbabwe</cup>
 
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
 </country>

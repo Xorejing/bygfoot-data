@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>egypt2b</sid>
+  <name>Second Division Group2</name>
+  <short_name>Group 2</short_name>
+  <symbol>flag_egypt.png</symbol>
+  <names_file>arabic</names_file>
+  <average_talent>6300</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>2</layer>
+
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>1</rank_start>
+      <rank_end>1</rank_end>
+      <dest_sid>egypt1</dest_sid>
+      <prom_rel_type>promotion</prom_rel_type>
+    </prom_rel_element>
+  </prom_rel>
+
+  <teams>
+    <team>
+      <team_name>Wadi Degla</team_name>
+    </team>
+    <team>
+      <team_name>Gasco</team_name>
+    </team>
+    <team>
+      <team_name>El Dakhleya</team_name>
+    </team>
+    <team>
+      <team_name>Itesalat</team_name>
+    </team>
+    <team>
+      <team_name>Al Nasr Egypt</team_name>
+    </team>
+    <team>
+      <team_name>El Sharkya</team_name>
+    </team>
+    <team>
+      <team_name>Al Tersana</team_name>
+    </team>
+    <team>
+      <team_name>El Rabat</team_name>
+    </team>
+    <team>
+      <team_name>Olympi El Qanal</team_name>
+    </team>
+    <team>
+      <team_name>El Shams</team_name>
+    </team>
+    <team>
+      <team_name>Montakhab El Suweis</team_name>
+    </team>
+    <team>
+      <team_name>Al Mareekh</team_name>
+    </team>
+    <team>
+      <team_name>Gomhoreyat Shepin</team_name>
+    </team>
+    <team>
+      <team_name>Asmant El Suweis</team_name>
+    </team>
+    <team>
+      <team_name>Banha</team_name>
+    </team>
+    <team>
+      <team_name>El Seka El Hadid</team_name>
+    </team>
+    <team>
+      <team_name>Intag Harby</team_name>
+    </team>
+  </teams>
+
+</league>

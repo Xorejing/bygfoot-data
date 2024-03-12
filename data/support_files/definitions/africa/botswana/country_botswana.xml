@@ -10,6 +10,11 @@
   </leagues>
 
   <cups>
+    <cup>botswana_cup</cup>
+    <cup>caf_cl_botswana</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
   </cups>
 
 </country>

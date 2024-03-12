@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>algeria2</sid>
+  <name>Algerian Ligue Professionnelle 2</name>
+  <short_name>Ligue 2</short_name>
+  <symbol>flag_algeria.png</symbol>
+  <names_file>general</names_file>
+  <average_talent>6300</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>2</layer>
+
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>1</rank_start>
+      <rank_end>3</rank_end>
+      <dest_sid>algeria1</dest_sid>
+      <prom_rel_type>promotion</prom_rel_type>
+    </prom_rel_element>
+  </prom_rel>
+
+  <teams>
+    <team>
+      <team_name>USM Annaba</team_name>
+    </team>
+    <team>
+      <team_name>ASM Oran</team_name>
+    </team>
+    <team>
+      <team_name>USM Blida</team_name>
+    </team>
+    <team>
+      <team_name>CA Bordj Bou Arreridj</team_name>
+    </team>
+    <team>
+      <team_name>AB Merouana</team_name>
+    </team>
+    <team>
+      <team_name>ES Mostaganem</team_name>
+    </team>
+    <team>
+      <team_name>JS Saoura</team_name>
+    </team>
+    <team>
+      <team_name>MSP Batna</team_name>
+    </team>
+    <team>
+      <team_name>MO Constantine</team_name>
+    </team>
+    <team>
+      <team_name>MO Béjaia</team_name>
+    </team>
+    <team>
+      <team_name>O Médéa</team_name>
+    </team>
+    <team>
+      <team_name>Paradou AC</team_name>
+    </team>
+    <team>
+      <team_name>RC Kouba</team_name>
+    </team>
+    <team>
+      <team_name>SA Mohammadia</team_name>
+    </team>
+    <team>
+      <team_name>US Biskra</team_name>
+    </team>
+    <team>
+      <team_name>USM Bel-Abbès</team_name>
+    </team>
+  </teams>
+
+</league>
+<team>
+<team_name>El Bayadh</team_name>
+</team>
+<team>
+<team_name>Biskra</team_name>
+</team>
+<team>
+<team_name>Saoura</team_name>
+</team>
+<team>
+<team_name>Magra</team_name>
+</team>
+<team>
+<team_name>USM Khenchela</team_name>
+</team>
+<team>
+<team_name>Aknoun</team_name>
+</team>
+<team>
+<team_name>US Souf</team_name>
+</team>

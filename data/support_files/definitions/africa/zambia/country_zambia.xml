@@ -7,9 +7,15 @@
 
   <leagues>
     <league>zambia1</league>
+    <league>zambia2a</league>
+    <league>zambia2b</league>
   </leagues>
 
   <cups>
-  </cups>
+    <cup>zambia_cup</cup>
+    <cup>caf_cl_zambia</cup>
 
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
 </country>

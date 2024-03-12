@@ -7,9 +7,15 @@
 
   <leagues>
     <league>algeria1</league>
+    <league>algeria2</league>
   </leagues>
 
   <cups>
+    <cup>algeria_cup</cup>
+    <cup>caf_cl_algeria</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
   </cups>
 
 </country>

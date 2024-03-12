@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cup>
+  <name>Comoros Supercup</name>
+  <short_name>CSC</short_name>
+  <symbol>flag_comoros.png</symbol>
+  <sid>comoros_supercup</sid>
+  <yellow_red>3</yellow_red>
+  <last_week>6</last_week>
+  <property>national</property>
+
+  <cup_rounds>
+    <cup_round>
+      <home_away>0</home_away>
+      <neutral>1</neutral>
+      <choose_teams>
+        <choose_team>
+          <choose_team_sid>comoros1a</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>1</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>comoros1b</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>1</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>comoros1c</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>1</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>comoros_cup</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>2</end_idx>
+        </choose_team>
+      </choose_teams>
+    </cup_round>
+
+    <cup_round>
+      <round_name>Final</round_name>
+      <home_away>0</home_away>
+      <neutral>1</neutral>
+    </cup_round>
+  </cup_rounds>
+</cup>

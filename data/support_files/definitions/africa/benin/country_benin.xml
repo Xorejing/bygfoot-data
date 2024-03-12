@@ -10,14 +10,17 @@
     <league>benin1b</league>
     <league>benin1c</league>
     <league>benin1d</league>
-    <league>caf_teams</league>
   </leagues>
 
   <cups>
+    <cup>benin_cup</cup>
     <cup>premier_league_promotion</cup>
     <cup>premier_league_relegation</cup>
 
-    <cup>caf_champions_league</cup>
+    <cup>caf_cl_benin</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
   </cups>
 
 </country>

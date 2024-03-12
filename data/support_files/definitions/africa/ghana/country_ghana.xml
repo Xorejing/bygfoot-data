@@ -3,13 +3,20 @@
   <name>Ghana</name>
   <symbol>flag_ghana.png</symbol>
   <sid>ghana</sid>
-  <rating>3</rating>
+  <rating>7</rating>
 
   <leagues>
     <league>ghana1</league>
+    <league>ghana2a</league>
+    <league>ghana2b</league>
+    <league>ghana2c</league>
   </leagues>
 
   <cups>
-  </cups>
+    <cup>ghana_cup</cup>
+    <cup>caf_cl_ghana</cup>
 
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
 </country>

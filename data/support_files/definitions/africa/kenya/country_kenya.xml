@@ -10,6 +10,10 @@
   </leagues>
 
   <cups>
-  </cups>
+    <cup>kenya_cup</cup>
+    <cup>caf_cl_kenya</cup>
 
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
 </country>

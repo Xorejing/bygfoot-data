@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Comoros</name>
+  <symbol>flag_comoros.png</symbol>
+  <sid>comoros</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>comoros1a</league>
+    <league>comoros1b</league>
+    <league>comoros1c</league>
+  </leagues>
+
+  <cups>
+    <cup>comoros_cup</cup>
+    <cup>comoros_supercup</cup>
+
+    <cup>caf_cl_comoros</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
+</country>

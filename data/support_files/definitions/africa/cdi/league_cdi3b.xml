@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>cdi3b</sid>
+  <name>MTN 3 Zone Centre-Est</name>
+  <short_name>MTN 3</short_name>
+  <symbol>flag_cdi.png</symbol>
+  <names_file>general</names_file>
+  <average_talent>5600</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <week_gap>1</week_gap>
+  <yellow_red>3</yellow_red>
+  <layer>3</layer>
+
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>1</rank_start>
+      <rank_end>1</rank_end>
+      <dest_sid>cdi2a</dest_sid>
+      <prom_rel_type>promotion</prom_rel_type>
+    </prom_rel_element>
+  </prom_rel>
+
+  <teams>
+    <team>
+      <team_name>AS Tanda</team_name>
+    </team>
+    <team>
+      <team_name>AS Prikro</team_name>
+    </team>
+    <team>
+      <team_name>Toumodi FC</team_name>
+    </team>
+    <team>
+      <team_name>Rio Sport</team_name>
+    </team>
+    <team>
+      <team_name>Yamoussoukro</team_name>
+    </team>
+    <team>
+      <team_name>UC Niable</team_name>
+    </team>
+    <team>
+      <team_name>Sacraboutou Sports</team_name>
+    </team>
+    <team>
+      <team_name>Sikensi FC</team_name>
+    </team>
+    <team>
+      <team_name>Kokoumbo FC</team_name>
+    </team>
+    <team>
+      <team_name>Egnanda FC</team_name>
+    </team>
+  </teams>
+
+</league>

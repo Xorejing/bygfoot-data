@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cup>
+  <name>Super Coupe Roger Milla</name>
+  <short_name>SC RM</short_name>
+  <symbol>flag_cameroon.png</symbol>
+  <sid>cameroon_supercup</sid>
+  <yellow_red>3</yellow_red>
+  <last_week>4</last_week>
+  <property>national</property>
+
+  <cup_rounds>
+    <cup_round>
+      <choose_teams>
+        <choose_team>
+          <choose_team_sid>cameroon1</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>1</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>cameroon_cup</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>2</end_idx>
+        </choose_team>
+      </choose_teams>
+    </cup_round>
+  </cup_rounds>
+</cup>

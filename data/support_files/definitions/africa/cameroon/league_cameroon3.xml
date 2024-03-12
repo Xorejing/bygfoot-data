@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>cameroon3</sid>
+  <name>MTN Elite 3</name>
+  <short_name>MTN 3</short_name>
+  <symbol>flag_cameroon.png</symbol>
+  <names_file>general</names_file>
+  <average_talent>5400</average_talent>
+  <!--  <first_week>7</first_week>-->
+  <yellow_red>3</yellow_red>
+  <layer>3</layer>
+  <property>inactive</property>
+
+  <teams>
+    <team>
+      <team_name>Union Sportive</team_name>
+    </team>
+    <team>
+      <team_name>Sable FC</team_name>
+    </team>
+    <team>
+      <team_name>Caïman</team_name>
+    </team>
+    <team>
+      <team_name>RAS Lausanne</team_name>
+    </team>
+    <team>
+      <team_name>CNI UIC</team_name>
+    </team>
+    <team>
+      <team_name>Scorpion FC</team_name>
+    </team>
+    <team>
+      <team_name>Achille FC</team_name>
+    </team>
+    <team>
+      <team_name>Njala Quan Sports</team_name>
+    </team>
+
+    <team>
+      <team_name>Douala Athletic</team_name>
+    </team>
+    <team>
+      <team_name>Avenir de Bertoua</team_name>
+    </team>
+
+    <team>
+      <team_name>Santos FC</team_name>
+    </team>
+    <team>
+      <team_name>Mayo Rey</team_name>
+    </team>
+    <team>
+      <team_name>Roumde Adjia</team_name>
+    </team>
+  </teams>
+
+</league>

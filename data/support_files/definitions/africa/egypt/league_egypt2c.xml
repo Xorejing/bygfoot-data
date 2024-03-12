@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>egypt2c</sid>
+  <name>Second Division Group3</name>
+  <short_name>Group 3</short_name>
+  <symbol>flag_egypt.png</symbol>
+  <names_file>arabic</names_file>
+  <average_talent>6300</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>2</layer>
+
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>1</rank_start>
+      <rank_end>1</rank_end>
+      <dest_sid>egypt1</dest_sid>
+      <prom_rel_type>promotion</prom_rel_type>
+    </prom_rel_element>
+  </prom_rel>
+
+  <teams>
+    <team>
+      <team_name>Semouha</team_name>
+    </team>
+    <team>
+      <team_name>Al Koroum</team_name>
+    </team>
+    <team>
+      <team_name>Baladeyet Al Mahalla</team_name>
+    </team>
+    <team>
+      <team_name>Olympic</team_name>
+    </team>
+    <team>
+      <team_name>Ala'ab Damanhour</team_name>
+    </team>
+    <team>
+      <team_name>Tanta</team_name>
+    </team>
+    <team>
+      <team_name>Markaz Shabab</team_name>
+    </team>
+    <team>
+      <team_name>Abou Qair Semadis</team_name>
+    </team>
+    <team>
+      <team_name>Nabrouh</team_name>
+    </team>
+    <team>
+      <team_name>Samanod</team_name>
+    </team>
+    <team>
+      <team_name>Razja'h</team_name>
+    </team>
+    <team>
+      <team_name>Meyah El Behairah</team_name>
+    </team>
+    <team>
+      <team_name>Maleyet Kafr</team_name>
+    </team>
+    <team>
+      <team_name>Kafr El Sheikh</team_name>
+    </team>
+    <team>
+      <team_name>El Zarqa</team_name>
+    </team>
+    <team>
+      <team_name>El Senbellawin</team_name>
+    </team>
+    <team>
+      <team_name>Mansoura</team_name>
+    </team>
+  </teams>
+
+</league>

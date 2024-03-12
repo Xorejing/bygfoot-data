@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cup>
+  <name>Egypt Cup</name>
+  <short_name>Cup</short_name>
+  <symbol>flag_egypt.png</symbol>
+  <sid>egypt_cup</sid>
+  <yellow_red>3</yellow_red>
+  <last_week>46</last_week>
+  <week_gap>3</week_gap>
+  <property>national</property>
+
+  <cup_rounds>
+    <cup_round>
+      <round_name>Qualification Round</round_name>
+      <number_of_groups>4</number_of_groups>
+      <number_of_advance>1</number_of_advance>
+      <number_of_best_advance>2</number_of_best_advance>
+      <home_away>0</home_away>
+      <delay>-10</delay>
+      <choose_teams>
+        <choose_team>
+          <choose_team_sid>egypt2a</choose_team_sid>
+          <number_of_teams>4</number_of_teams>
+          <start_idx>15</start_idx>
+          <end_idx>18</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>egypt2b</choose_team_sid>
+          <number_of_teams>4</number_of_teams>
+          <start_idx>14</start_idx>
+          <end_idx>17</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>egypt2c</choose_team_sid>
+          <number_of_teams>4</number_of_teams>
+          <start_idx>14</start_idx>
+          <end_idx>17</end_idx>
+        </choose_team>
+      </choose_teams>
+    </cup_round>
+    <cup_round>
+      <home_away>0</home_away>
+      <choose_teams>
+        <choose_team>
+          <choose_team_sid>egypt1</choose_team_sid><!-- 18 -->
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>egypt2a</choose_team_sid><!-- 18 -->
+          <number_of_teams>14</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>14</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>egypt2b</choose_team_sid><!-- 17 -->
+          <number_of_teams>13</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>13</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>egypt2c</choose_team_sid><!-- 17 -->
+          <number_of_teams>13</number_of_teams>
+          <start_idx>1</start_idx>
+          <end_idx>13</end_idx>
+        </choose_team>
+      </choose_teams>
+    </cup_round>
+
+    <cup_round>
+      <home_away>0</home_away>
+    </cup_round>
+
+    <cup_round>
+      <home_away>0</home_away>
+    </cup_round>
+
+    <cup_round>
+      <home_away>0</home_away>
+    </cup_round>
+
+    <cup_round>
+      <home_away>0</home_away>
+    </cup_round>
+
+    <cup_round>
+      <round_name>Final</round_name>
+      <home_away>0</home_away>
+      <neutral>1</neutral>
+    </cup_round>
+  </cup_rounds>
+
+</cup>

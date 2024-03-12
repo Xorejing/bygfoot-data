@@ -3,13 +3,23 @@
   <name>Côte d'Ivoire</name>
   <symbol>flag_cdi.png</symbol>
   <sid>cdi</sid>
-  <rating>5</rating>
+  <rating>7</rating>
 
   <leagues>
     <league>cdi1</league>
+    <league>cdi2a</league>
+    <league>cdi2b</league>
+    <league>cdi3a</league>
+    <league>cdi3b</league>
+    <league>cdi3c</league>
+    <league>cdi3d</league>
   </leagues>
 
   <cups>
-  </cups>
+    <cup>cdi_cup</cup>
+    <cup>caf_cl_cdi</cup>
 
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
 </country>

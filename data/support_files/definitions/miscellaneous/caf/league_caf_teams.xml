@@ -3,7 +3,6 @@
   <sid>caf_teams</sid>
   <name>CAF Teams</name>
   <short_name>CAFT</short_name>
-  <symbol>flag_africa.png</symbol>
   <average_talent>7700</average_talent>
   <property>inactive</property>
   <layer>1</layer>

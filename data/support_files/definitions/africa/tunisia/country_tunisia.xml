@@ -7,9 +7,17 @@
 
   <leagues>
     <league>tunisia1</league>
+    <league>tunisia2a</league>
+    <league>tunisia2b</league>
+    <league>tunisia3a</league>
+    <league>tunisia3b</league>
   </leagues>
 
   <cups>
-  </cups>
+    <cup>tunisia_cup</cup>
+    <cup>caf_cl_tunisia</cup>
 
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
 </country>

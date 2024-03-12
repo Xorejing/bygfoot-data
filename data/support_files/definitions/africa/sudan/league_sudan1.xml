@@ -6,7 +6,9 @@
   <symbol>flag_sudan.png</symbol>
   <names_file>general</names_file><!-- TODO -->
   <average_talent>6500</average_talent>
-  <property>national</property>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
   <layer>1</layer>
 
   <teams>
@@ -68,21 +70,3 @@
 
 </league>
 
-  <!--1 	Al-Merrikh SC 	1927 	Al-Merrikh Stadium 	Omdurman-->
-  <!--2 	Hay Al-Arab SC 	1928 	Port Sudan Stadium 	Port Sudan-->
-  <!--3 	Al Ahli SC (Khartoum) 	1929 	Khartoum Stadium 	Khartoum-->
-  <!--4 	Al-Hilal Club 	1930 	Al-Hilal Stadium 	Omdurman-->
-  <!--5 	Tuti SC 	1932 	Khartoum Stadium 	Khartoum-->
-  <!--6 	Hilal Alsahil SC 	1937 	Port Sudan Stadium 	Port Sudan-->
-  <!--7 	Al-Ahly Shendi 	1943 	Shendi Stadium 	Shendi-->
-  <!--8 	Kober SC 	1943 	Kober Stadium 	Bahri-->
-  <!--9 	Wad Nubawi SC 	1944 	Omdurman Stadium 	Omdurman-->
-  <!--10 	Al-Falah SC 	1945 	Atbara Stadium 	Atbara-->
-  <!--11 	Alamal SC Atbara 	1946 	Atbara Stadium 	Atbara-->
-  <!--12 	Al Rabita Kosti 	1947 	Kosti Stadium 	Kosti-->
-  <!--13 	Al-Hilal ESC (Al-Fasher) 	1948 	Al-Fasher Stadium 	Al-Fasher-->
-  <!--14 	Al-Zoma SC 	1953 	Khartoum Stadium 	Khartoum-->
-  <!--15 	Al Ahly Club (Merowe) 	1956 	Merowe Stadium 	Merowe-->
-  <!--16 	Haidoub SC 	1957 	En Nahud Stadium 	En Nahud-->
-  <!--17 	Hay Al Wadi SC 	1977 	Nyala Stadium 	Nyala-->
-  <!--18 	Al-Shurta Club 	2008 	Al-Gadaref Stadium 	El-Gadarif-->

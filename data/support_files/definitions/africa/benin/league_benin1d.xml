@@ -7,6 +7,10 @@
   <names_file>general</names_file><!-- TODO -->
   <average_talent>5000</average_talent>
   <first_week>5</first_week>
+  <break_in length="1">8</break_in>
+  <break_in length="1">12</break_in>
+  <break_in length="1">16</break_in>
+  <break_in length="1">20</break_in>
   <yellow_red>5</yellow_red>
   <property>national</property>
   <layer>1</layer>

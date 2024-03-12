@@ -10,7 +10,11 @@
   </leagues>
 
   <cups>
-  </cups>
+    <cup>car_cup</cup>
+    <cup>caf_cl_car</cup>
 
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
 </country>
 

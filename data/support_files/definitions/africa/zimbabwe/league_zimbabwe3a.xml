@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>zimbabwe3a</sid>
+  <name>Bulawayo Province Division Two A</name>
+  <short_name>Two A</short_name>
+  <symbol>flag_zimbabwe.png</symbol>
+  <names_file>general</names_file>
+  <average_talent>4900</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>3</layer>
+
+  <prom_rel>
+    <prom_rel_element>
+      <rank_start>1</rank_start>
+      <rank_end>1</rank_end>
+      <dest_sid>zimbabwe2a zimbabwe2b zimbabwe2c zimbabwe2d</dest_sid>
+      <prom_rel_type>promotion</prom_rel_type>
+    </prom_rel_element>
+
+  </prom_rel>
+
+  <teams>
+    <team>
+      <team_name>Black Boots</team_name>
+    </team>
+    <team>
+      <team_name>Ajax Hotspurs</team_name>
+    </team>
+    <team>
+      <team_name>How Mine</team_name>
+    </team>
+    <team>
+      <team_name>ZRP</team_name>
+    </team>
+    <team>
+      <team_name>Portland Cement</team_name>
+    </team>
+    <team>
+      <team_name>Tsholotsho Pirates</team_name>
+    </team>
+    <team>
+      <team_name>Zim Leopards</team_name>
+    </team>
+    <team>
+      <team_name>East Rovers</team_name>
+    </team>
+    <team>
+      <team_name>Sparrows</team_name>
+    </team>
+    <team>
+      <team_name>Matopo</team_name>
+    </team>
+    <team>
+      <team_name>Otrick Spares</team_name>
+    </team>
+    <team>
+      <team_name>Keshelmar</team_name>
+    </team>
+    <team>
+      <team_name>Zimplow</team_name>
+    </team>
+    <team>
+      <team_name>VS Stars</team_name>
+    </team>
+    <team>
+      <team_name>Green Mambas</team_name>
+    </team>
+    <team>
+      <team_name>Casmyn</team_name>
+    </team>
+  </teams>
+
+</league>
