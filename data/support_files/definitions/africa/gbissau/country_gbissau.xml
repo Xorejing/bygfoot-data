@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Guinea-Bissau</name>
+  <symbol>flag_gbissau.png</symbol>
+  <sid>gbissau</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>gbissau1</league>
+  </leagues>
+
+  <cups>
+    <cup>gbissau_cup</cup>
+    <cup>gbissau_supercup</cup>
+    <cup>caf_cc_gbissau</cup>
+    <cup>caf_cl_gbissau</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
+
+</country>

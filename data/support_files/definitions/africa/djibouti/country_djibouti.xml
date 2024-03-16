@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Djibouti</name>
+  <symbol>flag_djibouti.png</symbol>
+  <sid>djibouti</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>djibouti1</league>
+  </leagues>
+
+  <cups>
+    <cup>djibouti_cup</cup>
+    <cup>caf_cc_djibouti</cup>
+    <cup>caf_cl_djibouti</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
+
+</country>

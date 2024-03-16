@@ -17,6 +17,7 @@
 
   <cups>
     <cup>cdi_cup</cup>
+    <cup>caf_cc_cdi</cup>
     <cup>caf_cl_cdi</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

@@ -3,7 +3,7 @@
   <name>Morocco</name>
   <symbol>flag_morocco.png</symbol>
   <sid>morocco</sid>
-  <rating>7</rating>
+  <rating>8</rating>
 
   <leagues>
     <league>morocco1</league>
@@ -12,6 +12,7 @@
 
   <cups>
     <cup>morocco_cup</cup>
+    <cup>caf_cc_morocco</cup>
     <cup>caf_cl_morocco</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

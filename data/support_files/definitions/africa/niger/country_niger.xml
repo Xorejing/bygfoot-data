@@ -3,7 +3,7 @@
   <name>Niger</name>
   <symbol>flag_niger.png</symbol>
   <sid>niger</sid>
-  <rating>3</rating>
+  <rating>4</rating>
 
   <leagues>
     <league>niger1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>niger_cup</cup>
+    <cup>caf_cc_niger</cup>
     <cup>caf_cl_niger</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

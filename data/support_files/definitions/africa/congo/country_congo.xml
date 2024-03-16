@@ -3,7 +3,7 @@
   <name>Congo</name>
   <symbol>flag_congo.png</symbol>
   <sid>congo</sid>
-  <rating>4</rating>
+  <rating>5</rating>
 
   <leagues>
     <league>congo1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>congo_cup</cup>
+    <cup>caf_cc_congo</cup>
     <cup>caf_cl_congo</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

@@ -5,7 +5,7 @@
   <short_name>PL D</short_name>
   <symbol>flag_benin.png</symbol>
   <names_file>general</names_file><!-- TODO -->
-  <average_talent>5000</average_talent>
+  <average_talent>6000</average_talent>
   <first_week>5</first_week>
   <break_in length="1">8</break_in>
   <break_in length="1">12</break_in>

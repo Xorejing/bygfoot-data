@@ -5,7 +5,7 @@
   <short_name>GA3</short_name>
   <symbol>flag_angola.png</symbol>
   <names_file>general</names_file>
-  <average_talent>5800</average_talent>
+  <average_talent>4800</average_talent>
   <!--  <first_week>7</first_week>-->
   <break_in length="4">24</break_in>
   <yellow_red>3</yellow_red>

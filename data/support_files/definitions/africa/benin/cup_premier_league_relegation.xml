@@ -5,7 +5,7 @@
   <symbol>flag_benin.png</symbol>
   <sid>premier_league_relegation</sid>
   <add_week>27</add_week>
-<!--  <last_week>45</last_week>-->
+  <!--  <last_week>45</last_week>-->
   <break_in length="1">34</break_in>
   <break_in length="1">37</break_in>
   <break_in length="1">40</break_in>
@@ -17,12 +17,12 @@
   <cup_rounds>
     <cup_round>
       <round_name>Group Round</round_name>
-      <number_of_groups>2</number_of_groups>
+      <number_of_groups>3</number_of_groups>
       <home_away>1</home_away>
       <delay>-4</delay>
       <preload>0</preload>
-      <new_teams>16</new_teams>
-      <byes>15</byes>
+      <new_teams>19</new_teams>
+      <byes>0</byes>
       <choose_teams>
         <choose_team>
           <choose_team_sid>benin1a</choose_team_sid>

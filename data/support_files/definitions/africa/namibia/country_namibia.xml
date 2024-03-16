@@ -3,7 +3,7 @@
   <name>Namibia</name>
   <symbol>flag_namibia.png</symbol>
   <sid>namibia</sid>
-  <rating>4</rating>
+  <rating>5</rating>
 
   <leagues>
     <league>namibia1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>namibia_cup</cup>
+    <cup>caf_cc_namibia</cup>
     <cup>caf_cl_namibia</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

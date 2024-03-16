@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>gbissau1</sid>
+  <name>Campeonato Nacional da Guiné-Bissau</name>
+  <short_name>CN</short_name>
+  <symbol>flag_gbissau.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>5500</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>1</layer>
+
+  <!-- 2020-21 -->
+  <teams>
+    <team>
+      <team_name>AC de Bissorã</team_name>
+    </team>
+    <team>
+      <team_name>AFC Nhacra</team_name>
+    </team>
+    <team>
+      <team_name>Binar FC</team_name>
+    </team>
+    <team>
+      <team_name>CF Os Balantas Mansôa</team_name>
+    </team>
+    <team>
+      <team_name>Cumpelum FC</team_name>
+    </team>
+    <team>
+      <team_name>Cuntum FC</team_name>
+    </team>
+    <team>
+      <team_name>FC Canchungo</team_name>
+    </team>
+    <team>
+      <team_name>FC Sonaco</team_name>
+    </team>
+    <team>
+      <team_name>Flamengo FC</team_name>
+    </team>
+    <team>
+      <team_name>Lagartos FC</team_name>
+    </team>
+    <team>
+      <team_name>Massaf FC Cacine</team_name>
+    </team>
+    <team>
+      <team_name>Pelundo FC</team_name>
+    </team>
+    <team>
+      <team_name>SC Portos de Bissau</team_name>
+    </team>
+    <team>
+      <team_name>Sport Bissau e Benfica</team_name>
+    </team>
+    <team>
+      <team_name>Sporting Clube de Bafatá</team_name>
+    </team>
+    <team>
+      <team_name>Sporting Clube de Bissau</team_name>
+    </team>
+    <team>
+      <team_name>União Desportiva Internacional</team_name>
+    </team>
+  </teams>
+
+</league>

@@ -3,7 +3,7 @@
   <name>São Tomé and Príncipe</name>
   <symbol>flag_stp.png</symbol>
   <sid>stp</sid>
-  <rating>2</rating>
+  <rating>3</rating>
 
   <leagues>
     <league>stp1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>stp_cup</cup>
+    <cup>caf_cc_stp</cup>
     <cup>caf_cl_stp</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

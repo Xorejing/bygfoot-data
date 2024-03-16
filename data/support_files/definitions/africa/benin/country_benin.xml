@@ -3,7 +3,7 @@
   <name>Benin</name>
   <symbol>flag_benin.png</symbol>
   <sid>benin</sid>
-  <rating>3</rating>
+  <rating>5</rating>
 
   <leagues>
     <league>benin1a</league>
@@ -17,6 +17,7 @@
     <cup>premier_league_promotion</cup>
     <cup>premier_league_relegation</cup>
 
+    <cup>caf_cc_benin</cup>
     <cup>caf_cl_benin</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

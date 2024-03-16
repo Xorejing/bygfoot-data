@@ -3,7 +3,7 @@
   <name>Ghana</name>
   <symbol>flag_ghana.png</symbol>
   <sid>ghana</sid>
-  <rating>7</rating>
+  <rating>6</rating>
 
   <leagues>
     <league>ghana1</league>
@@ -14,6 +14,7 @@
 
   <cups>
     <cup>ghana_cup</cup>
+    <cup>caf_cc_ghana</cup>
     <cup>caf_cl_ghana</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

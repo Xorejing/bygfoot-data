@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>chad1a</sid>
+  <name>Championnat National Zone A</name>
+  <short_name>CN A</short_name>
+  <symbol>flag_chad.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>5000</average_talent>
+  <first_week>6</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>Gazelle FC</team_name>
+    </team>
+    <team>
+      <team_name>Tourbillon FC</team_name>
+    </team>
+    <team>
+      <team_name>Elect-Sport FC</team_name>
+    </team>
+    <team>
+      <team_name>Foullah Edifice</team_name>
+    </team>
+    <team>
+      <team_name>AS CotonTchad</team_name>
+    </team>
+    <team>
+      <team_name>Renaissance FC</team_name>
+    </team>
+    <team>
+      <!-- Direction Générale des Services de Sécurité et des Institutions de l'Etat -->
+      <team_name>AS DGSSIE</team_name>
+    </team>
+    <team>
+      <team_name>Garde Républicaine</team_name>
+    </team>
+    <team>
+      <team_name>Postel 2000</team_name>
+    </team>
+  </teams>
+
+</league>

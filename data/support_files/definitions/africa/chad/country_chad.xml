@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Chad</name>
+  <symbol>flag_chad.png</symbol>
+  <sid>chad</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>chad1a</league>
+    <league>chad1b</league>
+    <league>chad1c</league>
+  </leagues>
+
+  <cups>
+    <cup>chad_cup</cup>
+    <!--    <cup>chad_supercup</cup> -->
+    <cup>chad_championship</cup>
+    <cup>chad_relegation</cup>
+
+    <cup>caf_cc_chad</cup>
+    <cup>caf_cl_chad</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
+
+</country>

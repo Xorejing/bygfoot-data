@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>lesotho1</sid>
+  <name>Premier League</name>
+  <short_name>PL</short_name>
+  <symbol>flag_lesotho.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>5500</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>Matlama FC</team_name>
+    </team>
+    <team>
+      <team_name>Lioli FC Teyateyaneng</team_name>
+    </team>
+    <team>
+      <team_name>Bantu FC Mafeteng</team_name>
+    </team>
+    <team>
+      <team_name>Linare FC Leribe</team_name>
+    </team>
+    <team>
+      <team_name>Mounted Police Service</team_name>
+    </team>
+    <team>
+      <team_name>Correctional Services</team_name>
+    </team>
+    <team>
+      <team_name>Defence Force</team_name>
+    </team>
+    <team>
+      <team_name>Lifofane FC Butha-Buthe</team_name>
+    </team>
+    <team>
+      <team_name>Lijabatho FC Morija</team_name>
+    </team>
+    <team>
+      <team_name>Likila United</team_name>
+    </team>
+    <team>
+      <team_name>Liphakoe FC Quthing</team_name>
+    </team>
+    <team>
+      <team_name>Machokha FC</team_name>
+    </team>
+    <team>
+      <team_name>ACE Maseru</team_name>
+    </team>
+    <team>
+      <team_name>Manonyane FC</team_name>
+    </team>
+    <team>
+      <team_name>CCX FC Leribe</team_name>
+    </team>
+    <team>
+      <team_name>Naughty Boys</team_name>
+    </team>
+  </teams>
+
+</league>
+
+  <!--  Kick4Life FC (Maseru)-->
+  <!--  Likhopo FC (Maseru)-->
+  <!--  Mazenod Swallows FC (Mazenod)-->
+  <!--  Sefothafotha FC (Mabote)-->

@@ -3,7 +3,7 @@
   <name>Uganda</name>
   <symbol>flag_uganda.png</symbol>
   <sid>uganda</sid>
-  <rating>4</rating>
+  <rating>5</rating>
 
   <leagues>
     <league>uganda1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>uganda_cup</cup>
+    <cup>caf_cc_uganda</cup>
     <cup>caf_cl_uganda</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

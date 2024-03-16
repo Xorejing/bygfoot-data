@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Seychelles</name>
+  <symbol>flag_seychelles.png</symbol>
+  <sid>seychelles</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>seychelles1</league>
+  </leagues>
+
+  <cups>
+    <cup>seychelles_cup</cup>
+    <cup>caf_cc_seychelles</cup>
+    <cup>caf_cl_seychelles</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
+
+</country>

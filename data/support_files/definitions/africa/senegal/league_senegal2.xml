@@ -5,7 +5,7 @@
   <short_name>L2</short_name>
   <symbol>flag_senegal.png</symbol>
   <names_file>general</names_file><!-- TODO -->
-  <average_talent>4900</average_talent>
+  <average_talent>6500</average_talent>
   <first_week>7</first_week>
   <break_in length="4">24</break_in>
   <yellow_red>3</yellow_red>

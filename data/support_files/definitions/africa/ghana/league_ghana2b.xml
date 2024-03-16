@@ -5,7 +5,7 @@
   <short_name>Zone 2</short_name>
   <symbol>flag_ghana.png</symbol>
   <names_file>general</names_file>
-  <average_talent>6300</average_talent>
+  <average_talent>5800</average_talent>
   <first_week>7</first_week>
   <break_in length="4">24</break_in>
   <yellow_red>3</yellow_red>

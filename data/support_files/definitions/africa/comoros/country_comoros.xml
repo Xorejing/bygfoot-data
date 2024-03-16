@@ -3,7 +3,7 @@
   <name>Comoros</name>
   <symbol>flag_comoros.png</symbol>
   <sid>comoros</sid>
-  <rating>3</rating>
+  <rating>4</rating>
 
   <leagues>
     <league>comoros1a</league>
@@ -15,6 +15,7 @@
     <cup>comoros_cup</cup>
     <cup>comoros_supercup</cup>
 
+    <cup>caf_cc_comoros</cup>
     <cup>caf_cl_comoros</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

@@ -3,7 +3,7 @@
   <name>Mali</name>
   <symbol>flag_mali.png</symbol>
   <sid>mali</sid>
-  <rating>4</rating>
+  <rating>7</rating>
 
   <leagues>
     <league>mali1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>mali_cup</cup>
+    <cup>caf_cc_mali</cup>
     <cup>caf_cl_mali</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

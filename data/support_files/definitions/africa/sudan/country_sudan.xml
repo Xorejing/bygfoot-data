@@ -3,7 +3,7 @@
   <name>Sudan</name>
   <symbol>flag_sudan.png</symbol>
   <sid>sudan</sid>
-  <rating>6</rating>
+  <rating>4</rating>
 
   <leagues>
     <league>sudan1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>sudan_cup</cup>
+    <cup>caf_cc_sudan</cup>
     <cup>caf_cl_sudan</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

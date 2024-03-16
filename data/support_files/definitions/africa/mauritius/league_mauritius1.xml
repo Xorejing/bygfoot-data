@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>mauritius1</sid>
+  <name>Mauritian Premier League</name>
+  <short_name>MFA PL</short_name>
+  <symbol>flag_mauritius.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>5000</average_talent>
+  <round_robins>4</round_robins>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>1</layer>
+
+  <teams>
+    <team>
+      <team_name>Grande Riviere Sud Est Wanderers</team_name>
+    </team>
+    <team>
+      <team_name>Cercle de Joachim SC</team_name>
+    </team>
+    <team>
+      <team_name>Petite Rivière Noire SC</team_name>
+    </team>
+    <team>
+      <team_name>Pamplemousses SC</team_name>
+    </team>
+    <team>
+      <team_name>AS de Vacoas-Phoenix</team_name>
+    </team>
+    <team>
+      <team_name>AS Port-Louis 2000</team_name>
+    </team>
+    <team>
+      <team_name>Savanne SC</team_name>
+    </team>
+    <team>
+      <team_name>Entente Boulet</team_name>
+    </team>
+    <team>
+      <team_name>AS Rivière du Rempart</team_name>
+    </team>
+    <team>
+      <team_name>Chebel Citizens</team_name>
+    </team>
+  </teams>
+
+</league>

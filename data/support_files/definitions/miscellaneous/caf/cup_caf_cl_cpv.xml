@@ -10,11 +10,13 @@
   <break_in length="1">44</break_in>
   <break_in length="1">47</break_in>
   <yellow_red>3</yellow_red>
-  <week_gap>4</week_gap>
+  <week_gap>2</week_gap>
   <talent_diff>0</talent_diff>
   <last_week>48</last_week>
   <cup_rounds>
     <cup_round>
+      <delay>-18</delay>
+      <round_name>Preliminary Round</round_name>
       <new_teams>64</new_teams>
       <choose_teams>
         <choose_team>
@@ -72,6 +74,12 @@
           <generate>1</generate>
         </choose_team>
         <choose_team>
+          <choose_team_sid>chad1a chad1b chad1c</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
           <choose_team_sid>comoros1a comoros1b comoros1c</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <randomly>1</randomly>
@@ -91,9 +99,15 @@
         </choose_team>
         <choose_team>
           <choose_team_sid>cpv1</choose_team_sid>
-          <number_of_teams>2</number_of_teams>
+          <number_of_teams>1</number_of_teams>
           <start_idx>1</start_idx>
-          <end_idx>3</end_idx>
+          <end_idx>2</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>djibouti1</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
         </choose_team>
         <choose_team>
           <choose_team_sid>egypt1</choose_team_sid>
@@ -103,7 +117,7 @@
         </choose_team>
         <choose_team>
           <choose_team_sid>eqguinea1a eqguinea1b</choose_team_sid>
-          <number_of_teams>2</number_of_teams>
+          <number_of_teams>1</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
         </choose_team>
@@ -121,7 +135,7 @@
         </choose_team>
         <choose_team>
           <choose_team_sid>gabon1</choose_team_sid>
-          <number_of_teams>2</number_of_teams>
+          <number_of_teams>1</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
         </choose_team>
@@ -132,19 +146,31 @@
           <generate>1</generate>
         </choose_team>
         <choose_team>
+          <choose_team_sid>gbissau1</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
           <choose_team_sid>ghana1</choose_team_sid>
-          <number_of_teams>2</number_of_teams>
+          <number_of_teams>1</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
         </choose_team>
         <choose_team>
           <choose_team_sid>guinea1</choose_team_sid>
-          <number_of_teams>2</number_of_teams>
+          <number_of_teams>1</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
         </choose_team>
         <choose_team>
           <choose_team_sid>kenya1</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>lesotho1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
@@ -157,6 +183,12 @@
         </choose_team>
         <choose_team>
           <choose_team_sid>libya1</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>madagascar1a madagascar1b</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
@@ -175,6 +207,12 @@
         </choose_team>
         <choose_team>
           <choose_team_sid>mauritania1</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>mauritius1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
@@ -228,6 +266,12 @@
           <generate>1</generate>
         </choose_team>
         <choose_team>
+          <choose_team_sid>seychelles1</choose_team_sid>
+          <number_of_teams>1</number_of_teams>
+          <randomly>1</randomly>
+          <generate>1</generate>
+        </choose_team>
+        <choose_team>
           <choose_team_sid>sierra_leone1</choose_team_sid>
           <number_of_teams>1</number_of_teams>
           <randomly>1</randomly>
@@ -271,13 +315,13 @@
         </choose_team>
         <choose_team>
           <choose_team_sid>uganda1</choose_team_sid>
-          <number_of_teams>2</number_of_teams>
+          <number_of_teams>1</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
         </choose_team>
         <choose_team>
           <choose_team_sid>zambia1</choose_team_sid>
-          <number_of_teams>2</number_of_teams>
+          <number_of_teams>1</number_of_teams>
           <randomly>1</randomly>
           <generate>1</generate>
         </choose_team>
@@ -289,10 +333,23 @@
         </choose_team>
       </choose_teams>
     </cup_round>
-    <cup_round/>
-    <cup_round/>
-    <cup_round/>
     <cup_round>
+      <delay>-16</delay>
+      <round_name>Qualifying Round</round_name>
+    </cup_round>
+    <cup_round>
+      <delay>-6</delay>
+      <round_name>Group Stage</round_name>
+      <number_of_best_advance>0</number_of_best_advance>
+      <number_of_groups>4</number_of_groups>
+      <number_of_advance>2</number_of_advance>
+    </cup_round>
+    <cup_round>
+      <delay>-4</delay>
+      <round_name>Quarter Final</round_name>
+    </cup_round>
+    <cup_round>
+      <delay>-2</delay>
       <round_name>Semi Final</round_name>
     </cup_round>
     <cup_round>

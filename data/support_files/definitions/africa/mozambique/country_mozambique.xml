@@ -3,7 +3,7 @@
   <name>Mozambique</name>
   <symbol>flag_mozambique.png</symbol>
   <sid>mozambique</sid>
-  <rating>4</rating>
+  <rating>5</rating>
 
   <leagues>
     <league>mozambique1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>mozambique_cup</cup>
+    <cup>caf_cc_mozambique</cup>
     <cup>caf_cl_mozambique</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

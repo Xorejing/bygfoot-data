@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cup>
+  <name>Chad Relegation</name>
+  <short_name>Relegation Phase</short_name>
+  <symbol>flag_chad.png</symbol>
+  <sid>chad_relegation</sid>
+  <yellow_red>3</yellow_red>
+  <add_week>29</add_week>
+  <last_week>49</last_week>
+  <break_in length="1">31</break_in>
+  <break_in length="1">34</break_in>
+  <break_in length="1">37</break_in>
+  <break_in length="1">40</break_in>
+  <break_in length="1">43</break_in>
+  <break_in length="1">46</break_in>
+  <week_gap>1</week_gap>
+  <property>national</property>
+
+  <cup_rounds>
+    <cup_round>
+      <round_name>Group Stage</round_name>
+      <number_of_groups>2</number_of_groups>
+      <delay>-7</delay>
+      <preload>0</preload>
+      <choose_teams>
+        <choose_team>
+          <choose_team_sid>chad1a</choose_team_sid>
+          <number_of_teams>5</number_of_teams>
+          <start_idx>5</start_idx>
+          <end_idx>9</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>chad1b</choose_team_sid>
+          <number_of_teams>5</number_of_teams>
+          <start_idx>5</start_idx>
+          <end_idx>9</end_idx>
+        </choose_team>
+        <choose_team>
+          <choose_team_sid>chad1c</choose_team_sid>
+          <number_of_teams>5</number_of_teams>
+          <start_idx>5</start_idx>
+          <end_idx>9</end_idx>
+        </choose_team>
+      </choose_teams>
+    </cup_round>
+
+  </cup_rounds>
+
+</cup>

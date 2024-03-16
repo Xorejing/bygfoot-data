@@ -3,7 +3,7 @@
   <name>Mauritania</name>
   <symbol>flag_mauritania.png</symbol>
   <sid>mauritania</sid>
-  <rating>3</rating>
+  <rating>5</rating>
 
   <leagues>
     <league>mauritania1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>mauritania_cup</cup>
+    <cup>caf_cc_mauritania</cup>
     <cup>caf_cl_mauritania</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

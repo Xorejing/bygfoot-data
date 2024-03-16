@@ -3,7 +3,7 @@
   <name>South Africa</name>
   <symbol>flag_rsa.png</symbol>
   <sid>rsa</sid>
-  <rating>5</rating>
+  <rating>6</rating>
 
   <leagues>
     <league>rsa1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>rsa_cup</cup>
+    <cup>caf_cc_rsa</cup>
     <cup>caf_cl_rsa</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

@@ -3,7 +3,7 @@
   <name>Senegal</name>
   <symbol>flag_senegal.png</symbol>
   <sid>senegal</sid>
-  <rating>4</rating>
+  <rating>7</rating>
 
   <leagues>
     <league>senegal1</league>
@@ -13,6 +13,8 @@
   <cups>
     <cup>senegal_facup</cup>
     <cup>senegal_supercup</cup>
+
+    <cup>caf_cc_senegal</cup>
     <cup>caf_cl_senegal</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

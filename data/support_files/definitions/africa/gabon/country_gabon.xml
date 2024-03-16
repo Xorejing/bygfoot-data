@@ -3,7 +3,7 @@
   <name>Gabon</name>
   <symbol>flag_gabon.png</symbol>
   <sid>gabon</sid>
-  <rating>4</rating>
+  <rating>5</rating>
 
   <leagues>
     <league>gabon1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>gabon_cup</cup>
+    <cup>caf_cc_gabon</cup>
     <cup>caf_cl_gabon</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

@@ -3,7 +3,7 @@
   <name>Angola</name>
   <symbol>flag_angola.png</symbol>
   <sid>angola</sid>
-  <rating>6</rating>
+  <rating>5</rating>
 
   <leagues>
     <league>angola1</league>
@@ -12,6 +12,7 @@
 
   <cups>
     <cup>angola_cup</cup>
+    <cup>caf_cc_angola</cup>
     <cup>caf_cl_angola</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Lesotho</name>
+  <symbol>flag_lesotho.png</symbol>
+  <sid>lesotho</sid>
+  <rating>4</rating>
+
+  <leagues>
+    <league>lesotho1</league>
+  </leagues>
+
+  <cups>
+    <cup>lesotho_cup</cup>
+    <cup>lesotho_supa8</cup>
+
+    <cup>caf_cc_lesotho</cup>
+    <cup>caf_cl_lesotho</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
+
+</country>

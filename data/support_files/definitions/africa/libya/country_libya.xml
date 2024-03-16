@@ -3,7 +3,7 @@
   <name>Libya</name>
   <symbol>flag_libya.png</symbol>
   <sid>libya</sid>
-  <rating>5</rating>
+  <rating>4</rating>
 
   <leagues>
     <league>libya1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>libya_cup</cup>
+    <cup>caf_cc_libya</cup>
     <cup>caf_cl_libya</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

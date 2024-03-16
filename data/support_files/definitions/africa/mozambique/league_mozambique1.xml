@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <league>
   <sid>mozambique1</sid>
-  <name>Moçambola</name>
-  <short_name>MO</short_name>
+  <name>Campeonato Moçambicano de Futebol</name>
+  <short_name>Moçambola</short_name>
   <symbol>flag_mozambique.png</symbol>
   <names_file>swahili</names_file>
-  <average_talent>7000</average_talent>
+  <average_talent>6000</average_talent>
   <first_week>7</first_week>
   <break_in length="4">24</break_in>
   <yellow_red>3</yellow_red>

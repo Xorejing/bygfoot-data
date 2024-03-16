@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <name>Mauritius</name>
+  <symbol>flag_mauritius.png</symbol>
+  <sid>mauritius</sid>
+  <rating>3</rating>
+
+  <leagues>
+    <league>mauritius1</league>
+  </leagues>
+
+  <cups>
+    <cup>mauritius_cup</cup>
+    <cup>caf_cc_mauritius</cup>
+    <cup>caf_cl_mauritius</cup>
+
+    <cup>conmebol_copa_libertadores_fifa</cup>
+    <cup>fifa_cwc_africa</cup>
+  </cups>
+
+</country>

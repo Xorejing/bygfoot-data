@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>madagascar1b</sid>
+  <name>Malagasy Pro League South</name>
+  <short_name>MPL South</short_name>
+  <symbol>flag_madagascar.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>6000</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>1</layer>
+
+  <!-- Southern Group 2022-2023 -->
+  <teams>
+    <team>
+      <team_name>CFFA Andoharanofotsy</team_name>
+    </team>
+    <team>
+      <team_name>ASSM Elgeco Plus Analamanga</team_name>
+    </team>
+    <team>
+      <team_name>Mama FCA Ilakaka</team_name>
+    </team>
+    <team>
+      <team_name>Disciples FC Antsirabe</team_name>
+    </team>
+    <team>
+      <team_name>Zanak'Ala FC Fianarantsoa</team_name>
+    </team>
+    <team>
+      <team_name>JET Kintana Antananarivo</team_name>
+    </team>
+    <team>
+      <team_name>DATO FC Farafangana</team_name>
+    </team>
+    <team>
+      <team_name>3FB Toliara</team_name>
+    </team>
+  </teams>
+
+</league>

@@ -3,7 +3,7 @@
   <name>Equatorial Guinea</name>
   <symbol>flag_eqguinea.png</symbol>
   <sid>eqguinea</sid>
-  <rating>4</rating>
+  <rating>5</rating>
 
   <leagues>
     <league>eqguinea1a</league>
@@ -13,6 +13,7 @@
   <cups>
     <cup>eqguinea_cup</cup>
     <cup>eqguinea_supercup</cup>
+    <cup>caf_cc_eqguinea</cup>
     <cup>caf_cl_eqguinea</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

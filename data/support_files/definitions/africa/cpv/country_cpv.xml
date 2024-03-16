@@ -3,7 +3,7 @@
   <name>Cap Verde Islands</name>
   <symbol>flag_cpv.png</symbol>
   <sid>cpv</sid>
-  <rating>5</rating>
+  <rating>6</rating>
 
   <leagues>
     <league>cpv1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>cpv_cup</cup>
+    <cup>caf_cc_cpv</cup>
     <cup>caf_cl_cpv</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

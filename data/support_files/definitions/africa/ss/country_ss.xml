@@ -3,7 +3,7 @@
   <name>South Sudan</name>
   <symbol>flag_ss.png</symbol>
   <sid>ss</sid>
-  <rating>2</rating>
+  <rating>3</rating>
 
   <leagues>
     <league>ss1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>ss_cup</cup>
+    <cup>caf_cc_ss</cup>
     <cup>caf_cl_ss</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

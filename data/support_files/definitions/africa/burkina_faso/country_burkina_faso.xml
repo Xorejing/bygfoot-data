@@ -3,7 +3,7 @@
   <name>Burkina Faso</name>
   <symbol>flag_burkina_faso.png</symbol>
   <sid>burkina_faso</sid>
-  <rating>3</rating>
+  <rating>6</rating>
 
   <leagues>
     <league>burkina_faso1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>burkina_faso_cup</cup>
+    <cup>caf_cc_burkina_faso</cup>
     <cup>caf_cl_burkina_faso</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

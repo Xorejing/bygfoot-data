@@ -3,7 +3,7 @@
   <name>Eswatini</name>
   <symbol>flag_eswatini.png</symbol>
   <sid>eswatini</sid>
-  <rating>3</rating>
+  <rating>4</rating>
 
   <leagues>
     <league>eswatini1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>eswatini_cup</cup>
+    <cup>caf_cc_eswatini</cup>
     <cup>caf_cl_eswatini</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

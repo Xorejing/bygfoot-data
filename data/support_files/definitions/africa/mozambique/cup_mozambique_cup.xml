@@ -12,6 +12,7 @@
   <cup_rounds>
     <cup_round>
       <round_name>Round 1</round_name>
+      <delay>-9</delay>
       <choose_teams>
         <choose_team>
           <choose_team_sid>mozambique1</choose_team_sid>
@@ -20,9 +21,11 @@
     </cup_round>
 
     <cup_round>
+      <delay>-6</delay>
     </cup_round>
 
     <cup_round>
+      <delay>-3</delay>
     </cup_round>
 
     <cup_round>

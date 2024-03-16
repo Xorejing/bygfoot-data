@@ -11,6 +11,7 @@
 
   <cups>
     <cup>liberia_cup</cup>
+    <cup>caf_cc_liberia</cup>
     <cup>caf_cl_liberia</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

@@ -3,7 +3,7 @@
   <name>Central African Republic</name>
   <symbol>flag_car.png</symbol>
   <sid>car</sid>
-  <rating>3</rating>
+  <rating>4</rating>
 
   <leagues>
     <league>car1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>car_cup</cup>
+    <cup>caf_cc_car</cup>
     <cup>caf_cl_car</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

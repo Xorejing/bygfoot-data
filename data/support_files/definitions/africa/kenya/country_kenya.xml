@@ -3,7 +3,7 @@
   <name>Kenya</name>
   <symbol>flag_kenya.png</symbol>
   <sid>kenya</sid>
-  <rating>3</rating>
+  <rating>5</rating>
 
   <leagues>
     <league>kenya1</league>
@@ -11,6 +11,7 @@
 
   <cups>
     <cup>kenya_cup</cup>
+    <cup>caf_cc_kenya</cup>
     <cup>caf_cl_kenya</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>

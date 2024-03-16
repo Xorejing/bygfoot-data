@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<league>
+  <sid>madagascar1a</sid>
+  <name>Malagasy Pro League North</name>
+  <short_name>MPL North</short_name>
+  <symbol>flag_madagascar.png</symbol>
+  <names_file>general</names_file><!-- TODO -->
+  <average_talent>6000</average_talent>
+  <first_week>7</first_week>
+  <break_in length="4">24</break_in>
+  <yellow_red>3</yellow_red>
+  <layer>1</layer>
+
+  <!-- Northern Group 2022-2023 -->
+  <teams>
+    <team>
+      <team_name>Fosa Juniors FC Mahajanga</team_name>
+    </team>
+    <team>
+      <team_name>COSFA Antananarivo</team_name>
+    </team>
+    <team>
+      <team_name>AS Fanalamanga Alaotra-Mangoro</team_name>
+    </team>
+    <team>
+      <team_name>AJESAIA Itaosy</team_name>
+    </team>
+    <team>
+      <team_name>USCA Foot Antananarivo</team_name>
+    </team>
+    <team>
+      <team_name>Tsaramandroso FFC</team_name>
+    </team>
+    <team>
+      <team_name>Tia Kitra FC Toamasina</team_name>
+    </team>
+    <team>
+      <team_name>Club AS Ambondrona</team_name>
+    </team>
+  </teams>
+
+</league>

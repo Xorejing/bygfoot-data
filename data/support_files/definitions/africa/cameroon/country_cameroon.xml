@@ -14,6 +14,8 @@
   <cups>
     <cup>cameroon_cup</cup>
     <cup>cameroon_supercup</cup>
+
+    <cup>caf_cc_cameroon</cup>
     <cup>caf_cl_cameroon</cup>
 
     <cup>conmebol_copa_libertadores_fifa</cup>
